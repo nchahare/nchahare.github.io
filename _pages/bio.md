@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /bio/
 title: cv
 description: Highlights of my academic career
 nav: true
