@@ -1,80 +1,22 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: MOLI
+description: My PhD project about epithelial mechanics
+img: assets/img/moli.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This is my main PhD project. I started with Prof. Xavier Trepat, an experimentalist, and Prof. Marino Arroyo, a mathematician. I chose to work with these people to combine my desire to work at the interface of experimentation and theory. I am trained in mechanics of materials; and the materials like Epithelial sheets fascinated me endlessly.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+These sheets form specialized 3D structures suited to their physiological roles, such as branched alveoli in the lungs, tubes in the kidney, and villi in the intestine. To generate and maintain these structures, epithelia must undergo complex 3D deformations across length and time scales.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The mechanics of the epithelial shape remains poorly understood. We already know that the cytoskeleton remodeling and cellular rearrangements make epithelia an active material. However, how these active properties affect shape is not known.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+To address this question, here we decided to build three dimensional epithelial tissues from scratch. So that we can learn the mechanics of tissues by building. Most of my PhD was to develop a microfluidic setup to engineer 3D epithelial tissues with controlled shape and pressure. It was very hard. I couldnt do it without support of my lab mates: Tom Golde and Thomas Wilson. The outcome was very satisfying and also I got to name the device. I call the device, MOLI: short for Monolayer Inflator.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+In simple words, with using micropatterning and hydrostatic pressure, I could inflate 2D epithelial monolayer into a 3D epithelial balloon. And the shape of the balloon depends on the pattern. Circular patterns produced an spherical cap or a dome. This simple shape allows us to calculate epithelial tension as a product of pressure applied and half of the dome’s radius of curvature using Laplace’s law.
 
+Through this approach, we subject MDCK epithelial cells to a range of lumen pressures at different rates and hence probe the relation between strain and tension Slow pressure changes relative to the time-scales of actin dynamics allow the tissue to accommodate large strain variations. However, under sudden pressure reductions, the tissue develops buckling patterns and folds with different degrees of symmetry-breaking to store excess tissue area. It buckles at multiple levels, going from tissue level to cell level, and looking closely we found it to be buckling at cortex level.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+I was able to use experiments and mechanical reasoning to rationally direct spontaneous pattern formation, and hence engineer tissue folding.
