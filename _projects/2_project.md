@@ -1,80 +1,64 @@
 ---
-layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Design and fabrication of miniature shear device for cell mechanics
+description: My masters thesis project at IISc
 importance: 2
 category: work
+layout: page
+img: assets/img/2022-09-03-13-22-54-image.png
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+For my master’s thesis, I joined the biomechanics lab of Prof. Namrata Gundiah. One of the focuses of the lab is to understand cell mechanobiology. I designed and fabricated a bioreactor to study the mechanobiological effect of shear stress on cells by monitoring cytoskeletal reorganization and the response of focal adhesion kinase. This project was my first exposure to cell mechanobiology and applied mechanics methods like traction force microscopy and particle velocimetry. It acquainted me with basic cell biology practices and microscopy.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The idea was simple: to probe cells mechanically using shear force and observe their behavior. We chose to build a simple setup where the rotation of a conical plate in fluid would produce uniform shear flow over a large area. We also wanted this system to have the possibility of live imaging.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Cone plate rheometers are typically used to determine the properties of viscoelastic materials. However, we were the first to use them for mechanobiology of adherent cells.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<img src="assets/img/2022-09-03-13-22-54-image.png" title="" alt="" data-align="center">
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+The caluculation of the shear stress in the fluid can be approximated by using Newton’s law of viscosity
+$$
+\tau = \mu \frac{V}{h} = \mu \frac{\Omega r}{r tan(\beta) + c_o}
+$$
+By assuming very small gap and small angle:
+$$
+\tau = \mu \frac{\Omega}{\beta}
+$$
 
+For me, the challenge was to work with the practical aspects of the device. There were two sides to this
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+1. Mechanical fabrication
+2. Electrical components
 
+## Mechanical Fabrication
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+We designed the device with extensive use of SolidWorks. The device consists of a cone plate, the motor housing, a live cell chamber, a microscope stage, a microscope mount, and a stage for moving the cone.<img src="assets/img/2022-09-03-13-29-34-image.png" title="" alt="" data-align="center">
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The interesting part of the setup was the cone. First, the fabrication has to be smooth and accurate enough to produce a constant angle. The mechanical workshop of the Raman Research Institute did the fantastic work. We had a cone with a roughness of $0.8 \mu m$.
+
+Second, the cell substrate has to be exactly parallel to the cone plate. We had to go to extra lengths to match the tilt. We would focus on different parts of the cone and use the alignment stage.
+
+<img src="assets/img/2022-09-03-13-33-34-image.png" title="" alt="" data-align="center">
+
+## Electrical components
+
+We needed a motor that could spin fast and not wobble. Consider noisy fans; the faster you spin, the more you vibrate. On the suggestion of Prof. Pramod Pullarkat, we decided to go with the BLDC motor from the old hard drives. It is compact , light, and doesn't wobble.
+
+These hard drives are designed to run at a certain fixed speed and voltage. Thus, we used an electronic speed controller (ESC) with a pulse width modulation signal to control the speed. Here, a function generator could produce a wave between 0 and 5V, making the motor spin at different speeds.
+
+<img src="assets/img/2022-09-03-13-48-18-image.png" title="" alt="" data-align="center">
+
+To measure the speed, we used an infrared sensor next to the motor. For this, I had to learn Arduino UNO. I designed a GUI program in MATLAB to have live data analysis. We could use the MATLAB interface to program different speed protocols and monitor the results.
+
+## Results
+
+At the end of my masters thesis, I had the device ready and working. Unfortunately, I could not perform any experiments on this myself. We registered for the Indian patent.
+
+![](assets/img/2022-09-03-13-50-33-image.png)
+
+Pullarkat, P., Vishwakarma, R., Gundiah, N., and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
+
+I was very pleased to see interesting results using my share device. My colleague Neha Paddillaya used the device to understand cell adhesion strength and cellular invasiveness. In this study, she would step by step increase the pressure and count the cells attached to a region. She found that cell invasiveness is correlated to cell adhesion strength, which could be useful in cancer diagnostics.
+
+Paddillaya, N., Ingale, K., Gaikwad, C., Saini, D. K., Pullarkat, P., Kondaiah, P., ... & Gundiah, N. (2022). []Cell adhesion strength and tractions are mechano-diagnostic features of cellular invasiveness](https://pubs.rsc.org/en/content/articlelanding/2022/SM/D2SM00015F). *Soft Matter*, *18*(23), 4378-4388.
+
+![](assets/img/2022-09-03-13-56-46-image.png)
