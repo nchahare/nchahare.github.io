@@ -3,9 +3,11 @@ layout: page
 title:  media
 nav: true
 nav_order: 4
+description: highlights of my projects in pictures
+
 ---
 
-There is always more than meets the eye. I am not just an engineer. I have other interests, like cooking, learning new things, making origami. Here you can see random things I do on this part of the internet.
+There is always more than meets the eye. I am not just an engineer. I have other interests, like cooking, learning new things, making origami. Here you can see pictures related to my work or random things I do on this part of the internet.
 
 
 <div class="row mt-3">
