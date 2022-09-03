@@ -15,7 +15,9 @@ The idea was simple: to probe cells mechanically using shear force and observe t
 
 Cone plate rheometers are typically used to determine the properties of viscoelastic materials. However, we were the first to use them for mechanobiology of adherent cells.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-22-54-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
+</div>
 
 The caluculation of the shear stress in the fluid can be approximated by using Newton’s law of viscosity
 
@@ -38,13 +40,18 @@ For me, the challenge was to work with the practical aspects of the device. Ther
 
 We designed the device with extensive use of SolidWorks. The device consists of a cone plate, the motor housing, a live cell chamber, a microscope stage, a microscope mount, and a stage for moving the cone.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-29-34-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
-
+</div>
+  
 The interesting part of the setup was the cone. First, the fabrication has to be smooth and accurate enough to produce a constant angle. The mechanical workshop of the Raman Research Institute did the fantastic work. We had a cone with a roughness of $0.8 \mu m$.
 
 Second, the cell substrate has to be exactly parallel to the cone plate. We had to go to extra lengths to match the tilt. We would focus on different parts of the cone and use the alignment stage.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-33-34-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
+</div>
+
 
 ## Electrical components
 
@@ -52,7 +59,9 @@ We needed a motor that could spin fast and not wobble. Consider noisy fans; the 
 
 These hard drives are designed to run at a certain fixed speed and voltage. Thus, we used an electronic speed controller (ESC) with a pulse width modulation signal to control the speed. Here, a function generator could produce a wave between 0 and 5V, making the motor spin at different speeds.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-48-18-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
+</div>
 
 To measure the speed, we used an infrared sensor next to the motor. For this, I had to learn Arduino UNO. I designed a GUI program in MATLAB to have live data analysis. We could use the MATLAB interface to program different speed protocols and monitor the results.
 
@@ -60,7 +69,9 @@ To measure the speed, we used an infrared sensor next to the motor. For this, I 
 
 At the end of my masters thesis, I had the device ready and working. Unfortunately, I could not perform any experiments on this myself. We registered for the Indian patent.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-50-33-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
+</div>
 
 Pullarkat, P., Vishwakarma, R., Gundiah, N., and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
@@ -68,4 +79,6 @@ I was very pleased to see interesting results using my share device. My colleagu
 
 Paddillaya, N., Ingale, K., Gaikwad, C., Saini, D. K., Pullarkat, P., Kondaiah, P., ... & Gundiah, N. (2022). [Cell adhesion strength and tractions are mechano-diagnostic features of cellular invasiveness](https://pubs.rsc.org/en/content/articlelanding/2022/SM/D2SM00015F). *Soft Matter*, *18*(23), 4378-4388.
 
+<div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-56-46-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
+</div>
