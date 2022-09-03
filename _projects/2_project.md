@@ -1,11 +1,13 @@
 ---
-title: Design and fabrication of miniature shear device for cell mechanics
+title: shear device
 description: My masters thesis project at IISc
 importance: 2
 category: work
 layout: page
 img: assets/img/2022-09-03-13-22-54-image.png
 ---
+
+# Design and fabrication of miniature shear device for cell mechanics
 
 For my master’s thesis, I joined the biomechanics lab of Prof. Namrata Gundiah. One of the focuses of the lab is to understand cell mechanobiology. I designed and fabricated a bioreactor to study the mechanobiological effect of shear stress on cells by monitoring cytoskeletal reorganization and the response of focal adhesion kinase. This project was my first exposure to cell mechanobiology and applied mechanics methods like traction force microscopy and particle velocimetry. It acquainted me with basic cell biology practices and microscopy.
 
