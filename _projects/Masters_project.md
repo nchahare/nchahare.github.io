@@ -1,10 +1,10 @@
 ---
 title: shear device
-description: My masters thesis project at IISc
-importance: 2
+description: Design and fabrication of shear device for cell mechanics
+importance: 6
 category: work
 layout: page
-img: assets/img/2022-09-03-13-22-54-image.png
+img: assets/img/sheardevice.png
 ---
 
 # Design and fabrication of miniature shear device for cell mechanics
@@ -43,7 +43,7 @@ We designed the device with extensive use of SolidWorks. The device consists of 
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-29-34-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
-  
+
 The interesting part of the setup was the cone. First, the fabrication has to be smooth and accurate enough to produce a constant angle. The mechanical workshop of the Raman Research Institute did the fantastic work. We had a cone with a roughness of $0.8 \mu m$.
 
 Second, the cell substrate has to be exactly parallel to the cone plate. We had to go to extra lengths to match the tilt. We would focus on different parts of the cone and use the alignment stage.
