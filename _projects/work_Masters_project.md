@@ -18,8 +18,9 @@ Cone plate rheometers are typically used to determine the properties of viscoela
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-22-54-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
 
-The caluculation of the shear stress in the fluid can be approximated by using Newton’s law of viscosity
+The calculation of the shear stress in the fluid can be approximated by using Newton’s law of viscosity
 
 $$
 \tau = \mu \frac{V}{h} = \mu \frac{\Omega r}{r tan(\beta) + c_o}
@@ -43,6 +44,7 @@ We designed the device with extensive use of SolidWorks. The device consists of 
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-29-34-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
 
 The interesting part of the setup was the cone. First, the fabrication has to be smooth and accurate enough to produce a constant angle. The mechanical workshop of the Raman Research Institute did the fantastic work. We had a cone with a roughness of $0.8 \mu m$.
 
@@ -51,6 +53,7 @@ Second, the cell substrate has to be exactly parallel to the cone plate. We had 
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-33-34-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
 
 
 ## Electrical components
@@ -62,6 +65,7 @@ These hard drives are designed to run at a certain fixed speed and voltage. Thus
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-48-18-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
 
 To measure the speed, we used an infrared sensor next to the motor. For this, I had to learn Arduino UNO. I designed a GUI program in MATLAB to have live data analysis. We could use the MATLAB interface to program different speed protocols and monitor the results.
 
@@ -72,6 +76,7 @@ At the end of my masters thesis, I had the device ready and working. Unfortunate
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-50-33-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
 
 Pullarkat, P., Vishwakarma, R., Gundiah, N., and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
@@ -82,3 +87,4 @@ Paddillaya, N., Ingale, K., Gaikwad, C., Saini, D. K., Pullarkat, P., Kondaiah, 
 <div class="row justify-content-sm-center">
 {% include figure.html path="assets/img/2022-09-03-13-56-46-image.png" title="Cone plate rheometers" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>

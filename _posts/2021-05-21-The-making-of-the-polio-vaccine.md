@@ -10,7 +10,12 @@ layout: post
 
 ## A brief look at vaccine development and research.
 
-![Polio vaccine campaign](https://cdn.downtoearth.org.in/library/large/2016-10-24/0.45244700_1477302931_polio-vaccine.jpg)
+
+<div class="row justify-content-sm-center">
+{% include figure.html path="assets/img/poliovac.jpg" title="polio vaccine ad" class="img-fluid rounded z-depth-1" %}
+Polio vaccine campaign
+</div>
+<br>
 
 As I write this, in early May 2021, there have been more than 170 million COVID-19 cases and 3.7 million related deaths; and numbers are expected to rise. In time of crisis, it is helpful for us to look back at humanity’s past success in eradicating a devastating illness using science. We are talking about how we officially eradicated the infection called Polio.
 
@@ -89,4 +94,3 @@ Last year India added 40 new billionaires to the ever-growing list. Business Sta
 * https://www.aljazeera.com/opinions/2021/2/21/the-vaccine-debacle-shows-the-predatory-nature-of-capitalism
 
 > [Originally written for Breakthrough Science Society Abroad Magazine](https://sites.google.com/view/breakthrough-abroad/e-magazine/sep2021/nimesh_polio_vaccine?authuser=0)
-
