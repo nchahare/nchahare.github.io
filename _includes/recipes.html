@@ -1,0 +1,21 @@
+<!-- _includes/recipes.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  {% if recipe.redirect -%}
+  <a href="{{ recipe.redirect }}">
+    {%- else -%}
+    <a href="{{ recipe.url | relative_url }}">
+      {%- endif %}
+      <div class="card hoverable">
+        {%- if recipe.img %}
+        {%- include recipe.html
+          path=recipe.img
+          alt="recipe thumbnail" -%}
+        {%- endif %}
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">{{ recipe.title }}</h2>
+          <p class="card-text">{{ recipe.description }}</p>
+        </div>
+      </div>
+    </a>
+</div>
