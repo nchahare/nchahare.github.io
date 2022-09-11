@@ -8,7 +8,7 @@ One of most renowned curries. Fun fact: in India,  people almost never cook this
 
 ## ingredients
 
-### For marination:
+For marination:
   - 500g boneless chicken
   - 1.5tsp Ginger garlic paste
   - 1tsp Salt
@@ -17,7 +17,7 @@ One of most renowned curries. Fun fact: in India,  people almost never cook this
   - 3tsp Readymade Tandoori Masala
   - 3tsp sunflower oil
 
-### For the gravy:
+For the gravy:
   - 1.5tbsp Oil
   - 3pc Green cardamom
   - 1pc small Cinnamon
