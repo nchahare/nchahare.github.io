@@ -16,11 +16,12 @@ horizontal: false
   {%- assign categorized_projects = site.recipes %}
   {%- assign sorted_projects = categorized_projects %}
   <!-- Generate cards for each project -->
-
-  <div class="grid">
+  <div class="container">
+    <div class="row row-cols-3">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include projects_horizontal.html %}
     {%- endfor %}
+    </div>
   </div>
   {%- endfor %}
 </div>
