@@ -7,5 +7,5 @@ layout: post
 tags:
   - fun
 
-redirect: https://nchahare.github.io/projects/misplacedquotes/
+redirect: https://nchahare.github.io/projects/fun_misplacedquotes/
 ---
