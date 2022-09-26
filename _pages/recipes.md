@@ -4,7 +4,7 @@ title: Cook book
 permalink: /recipes/
 description: A collection of my recipes
 nav: false
-nav_order: 4
+snav_order: 4
 display_categories: [work]
 horizontal: false
 ---
@@ -17,11 +17,12 @@ horizontal: false
   {%- assign sorted_projects = categorized_projects %}
   <!-- Generate cards for each project -->
   <div class="grid">
-    <div class="row row-cols-1">
+    <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include recipes_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- endfor %}
 </div>
+
