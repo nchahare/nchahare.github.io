@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nuhammara
+title: Nuhamara
 description: Roasted peppers and peanuts dip
 ---
 Roasted peppers and peanuts dip. Inspired by Arab dip, Muhammara. I like to think of this as student version of Muhammara with nice traditional ingredients replaced by cheap ones. When I came up with this for a potluck dinner, I decided to name it "Nuhammara" after myself.
