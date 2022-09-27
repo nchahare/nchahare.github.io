@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cook book
+title: Nimesh's Cookbook
 permalink: /recipes/
 description: A collection of my recipes
 nav: false
