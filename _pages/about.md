@@ -6,7 +6,7 @@ subtitle: Mechanical Engineer and Science Enthusiast
 
 profile:
   align: right
-  image: me.jpg
+  image: meme.jpg
   image_circular: false # crops the image to make it circular
   address:
 news: true  # includes a list of news items
