@@ -4,7 +4,9 @@ title: AM curry
 description: Potatoes peas curry
 ---
 # Aloo mutter (AM) curry
-My mother use to cook this at least once a week. Fairly easy and fast to cook. 
+My mother used to cook this at least once a week. It's fairly easy and fast to cook. I typically cook this with fresh potatoes and frozen green peas.
+
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
 
 ## ingredients 
 For 6 portions. 

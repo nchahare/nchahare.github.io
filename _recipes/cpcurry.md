@@ -5,6 +5,10 @@ description: Chickpeas pepper curry
 ---
 # Chickpeas pepper (CP) curry
 
+I was actually preparing a normal chickpeas recipe. But I realized that I didn't have enough chickpeas. So I added peppers to make it bulkier.
+
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
+
 ## ingredients 
 For 6 portions. 
 - 500g canned chickpeas

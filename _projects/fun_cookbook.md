@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cook book
+title: Cookbook
 description: A collection of my recipes
 img: assets/img/cookbook.png
 importance: 2

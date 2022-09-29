@@ -6,6 +6,8 @@ description: Easy canned tuna fusilli pasta
 # Easy canned tuna pasta
 Canned tuna, canned tomatoes, and pasta. Simple and good.
 
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
+
 ## ingredients 
 For 4 portions. 
 - 500g fusilli pasta 

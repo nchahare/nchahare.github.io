@@ -4,7 +4,9 @@ title: BEM curry
 description: Boiled egg masala curry
 ---
 # Boiled Egg Masala (BEM) curry
-Classical egg curry recipe from my mother. There are hundreds of variations of egg curry: bhurji, egg masala, egg chetinad, ghotala. Typically we can think it in terms of how did you add the eggs to it. You can scramble the eggs like bhurji, fry the eggs in fashion of omellete like in ghotala or shashuka, and lastly use boiled eggs. This one, as the name  suggests, is of boiled eggs
+An egg curry recipe from my mother. There are hundreds of variations of egg curry: bhurji, egg masala, egg chetinad, ghotala. Typically, we can think of it in terms of how you add the eggs to it. You can scramble the eggs like bhurji, fry the eggs in the fashion of omellete, like in ghotala or shashuka, and lastly, use boiled eggs. This one, as the name suggests, is of boiled eggs. You have to boil the eggs and fry them in oil such that they get a nice crispy layer on the outside.
+
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
 
 ## ingredients 
 For 4 portions. 

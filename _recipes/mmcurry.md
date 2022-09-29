@@ -6,6 +6,8 @@ description: Mutter mushroom curry
 
 Restaurant style curry.
 
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
+
 ## ingredients
 - 250g chopped mushrooms
 - 200g green peas
