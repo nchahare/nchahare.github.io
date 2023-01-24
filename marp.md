@@ -4,11 +4,12 @@ description:
 paginate: true
 marp: true
 theme: default
+math: mathjax
 ---
 
 <!-- _class: lead -->
 
-# <!-- fit -->Organic folds and cuts
+# <!-- fit --> Organic matter in paper
 
 By Nimesh Chahare 
 
@@ -46,12 +47,71 @@ Frames x 8 (maybe to stick the walls)
 
 ---
 
+## Issues
+
+### Exponential size (ten fold) decrease is hard
+- Length: A0 short side is $841mm$. Smallest thing I can fold is $1mm$. With this I can only do 4 structures.
+$$ 841 > 84.1 > 8.41 > 0.841 $$
+- Area: Smallest area that I can deal with is $1mm\times 1mm$. Starting with A0 $841mm \times 841 mm$. 
+The sides go like 
+$$ 841 > 265.9 > 84.1 > 26.6 > 8.4 > 2.65 > 0.84 > 0.26$$
+
+---
+## Issues
+
+### Biological objects don't scale that resonably.
+
+- Initial idea was to go from 
+Hydrogen atom $(\sim 100pm = 1\times10^-7mm)$ to intestinal tissue $(\sim 1mm)$
+- I need to fill up structures which scale at order of ten in between them.
+- Also, know if they can be represented with origami.
+
+---
+
+### Sizes of things
+
+1. Hydrogen atom: $100pm = 1\times10^{-7}mm$
+2. Aminoacids and proteins: $1nm = 1\times10^{-6}mm$
+3. DNA helix: $10nm = 1\times10^{-5}mm$
+4. Nucleopore complex: $125nm = 1.25\times10^{-4}mm$
+5. Cell: $15\mu m = 1.5\times10^{-2}mm$
+6. Blastocyst: $140\mu m = 1.4\times10^{-1}mm$
+7. Intestinal tissue: $1mm$
+
+---
+
+### Shape of things
+
+1. Hydrogen atom: $100pm = 1\times10^{-7}mm$ : **No folds**
+2. Aminoacids and proteins: $1nm = 1\times10^{-6}mm$ : **Molecular origami** (ref2)
+3. DNA helix: $10nm = 1\times10^{-5}mm$ : **Double helix** (ref3)
+4. Nucleopore complex: $125nm = 1.25\times10^{-4}mm$ : **Flasher** (ref1 Fig 10)
+5. Cell: $15\mu m = 1.5\times10^{-2}mm$ : **Le crimp** (ref4 page 8)
+6. Blastocyst: $140\mu m = 1.4\times10^{-1}mm$ : **Origami Buckyball** (ref4 page 10, ref5)
+7. Intestinal tissue: $1mm$ : **Miura ori** (ref6)
+
+---
+## Tasks ahead
+
+- Need to fix the templates
+- Question: The problem is the size of the paper doesn't relate to the size of the object folded. We only know the size of folded structures. We will have to extrapolate the paper size.
+- Also, think about the info to be given the people and how to explain the structures
+
+---
+
 ## References
 
-Azulay, Hay, Aviv Lutaty, and Nir Qvit. "How Similar Are Proteins and Origami?." Biomolecules 12, no. 5 (2022): 622.
+1. Azulay, Hay, Aviv Lutaty, and Nir Qvit. "How Similar Are Proteins and Origami?." Biomolecules 12, no. 5 (2022): 622.
 
-Shyer AE, Tallinen T, Nerurkar NL, Wei Z, Gil ES, Kaplan DL, Tabin CJ, Mahadevan L. 2013 Villification: how the gut gets its villi. Science 342, 212-218. (doi:10.1126/science.1238842)
+2. kazilek (2012) Protein Folding. Available at: https://askabiologist.asu.edu/venom/protein-folding (Accessed: 24 January 2023).
 
-Savin T, Kurpios NA, Shyer AE, Florescu P, Liang H, Mahadevan L, Tabin CJ. 2011On the growth and form of the gut. Nature 476, 57-62. (doi:10.1038/nature10277)
+3. Studio, M. (no date) DNA Origami, Instructables. Available at: https://www.instructables.com/DNA-Origami/ (Accessed: 24 January 2023).
 
-Hughes, A.J., Miyazaki, H., Coyle, M.C., Zhang, J.,Laurie, M.T., Chu, D., Vavru sova´ , Z., Schneider,R.A., Klein, O.D., and Gartner, Z.J. (2018). Engineered tissue folding by mechanical compaction of the mesenchyme. Dev. Cell 44, this issue, 165–178.
+4. vincent,  folderer (no date) Le crimp portfolio. Available at: https://www.le-crimp.org/doc/Portfolio_CRIMP.pdf (Accessed: 24 January 2023).
+
+---
+## References
+
+5. Tutorial for Origami Bucky Ball (2018). Available at: https://www.youtube.com/watch?v=kHJSd1Huhg4 (Accessed: 24 January 2023).
+
+6. Shyer AE, Tallinen T, Nerurkar NL, Wei Z, Gil ES, Kaplan DL, Tabin CJ, Mahadevan L. 2013 Villification: how the gut gets its villi. Science 342, 212-218. (doi:10.1126/science.1238842)
