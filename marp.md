@@ -68,24 +68,13 @@ Hydrogen atom $(\sim 100pm = 1\times10^-7mm)$ to intestinal tissue $(\sim 1mm)$
 
 ---
 
-### Sizes of things
-
-1. Hydrogen atom: $100pm = 1\times10^{-7}mm$
-2. Aminoacids and proteins: $1nm = 1\times10^{-6}mm$
-3. DNA helix: $10nm = 1\times10^{-5}mm$
-4. Nucleopore complex: $125nm = 1.25\times10^{-4}mm$
-5. Cell: $15\mu m = 1.5\times10^{-2}mm$
-6. Blastocyst: $140\mu m = 1.4\times10^{-1}mm$
-7. Intestinal tissue: $1mm$
-
----
-
-### Shape of things
+### Shape and size of things
 
 1. Hydrogen atom: $100pm = 1\times10^{-7}mm$ : **No folds**
 2. Aminoacids and proteins: $1nm = 1\times10^{-6}mm$ : **Molecular origami** (ref2)
 3. DNA helix: $10nm = 1\times10^{-5}mm$ : **Double helix** (ref3)
 4. Nucleopore complex: $125nm = 1.25\times10^{-4}mm$ : **Flasher** (ref1 Fig 10)
+5. Actin bundles: $1\mu m = 1\times10^{-3}mm$ : **network or helixes**
 5. Cell: $15\mu m = 1.5\times10^{-2}mm$ : **Le crimp** (ref4 page 8)
 6. Blastocyst: $140\mu m = 1.4\times10^{-1}mm$ : **Origami Buckyball** (ref4 page 10, ref5)
 7. Intestinal tissue: $1mm$ : **Miura ori** (ref6)
@@ -95,6 +84,7 @@ Hydrogen atom $(\sim 100pm = 1\times10^-7mm)$ to intestinal tissue $(\sim 1mm)$
 
 - Need to fix the templates
 - Question: The problem is the size of the paper doesn't relate to the size of the object folded. We only know the size of folded structures. We will have to extrapolate the paper size.
+- We can buy paper which is bigger than A0; by buying plotter machine paper.
 - Also, think about the info to be given the people and how to explain the structures
 
 ---
