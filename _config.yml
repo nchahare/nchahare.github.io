@@ -99,9 +99,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Nimesh's blog # blog_name will be displayed in your blog page
+blog_name: Journal of Experimental Nimesh # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Simple notes for things I am trying to learn about.
+blog_description: Account of my experiences and fleeting thoughts.
 permalink: /blog/:year/:title/
 
 # Pagination
