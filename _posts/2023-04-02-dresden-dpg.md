@@ -5,7 +5,7 @@ layout: post
 
 date: 2023-04-02
 description: Extra baggage of sickness, visa anxiety, and unfinished thesis
-tags: work
+tags: Memories
 ---
 
 ## Prelude

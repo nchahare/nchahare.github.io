@@ -3,9 +3,7 @@ title: Problems encountered with Jekyll
 date: 2022-08-17
 author: Nimesh Chahare
 excerpt:
-tags:
-  - jekyll
-  - coding
+tags: Learnings
 layout: post
 
 ---

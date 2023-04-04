@@ -4,9 +4,7 @@ date:   2022-03-11
 
 excerpt: Mechanocontrol people interviewed me about my side project of MISTI.
 layout: post
-tags:
-  - article
-  - work
+tags: Articles
 
 redirect: https://mechanocontrol.eu/project-stories-interview-with-nimesh-chahare/
 ---

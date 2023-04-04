@@ -3,7 +3,7 @@ title: The making of the polio vaccine
 author: Nimesh Chahare
 date: 2021-05-21
 excerpt: A brief look at vaccine development and research.
-tags: [article]
+tags: [Articles]
 layout: post
 
 ---

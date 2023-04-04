@@ -4,8 +4,7 @@ date:   2022-06-13
 
 excerpt: Posters with quotes
 layout: post
-tags:
-  - fun
+tags: Articles
 
 redirect: https://nchahare.github.io/projects/fun_misplacedquotes/
 ---

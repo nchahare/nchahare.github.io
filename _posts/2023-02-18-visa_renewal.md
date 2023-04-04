@@ -3,7 +3,7 @@ layout: post
 title: Waiting for visa
 date: 2023-02-18
 description: Navigating Bureaucracy
-tags: work
+tags: Memories
 ---
 ## Current visa issues 
 
