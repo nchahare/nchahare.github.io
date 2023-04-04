@@ -4,7 +4,7 @@ author: Nimesh Chahare
 layout: post
 
 date: 2023-04-02
-excerpt: Extra baggage of sickness, visa anxiety, and unfinished thesis
+description: Extra baggage of sickness, visa anxiety, and unfinished thesis
 tags: work
 ---
 

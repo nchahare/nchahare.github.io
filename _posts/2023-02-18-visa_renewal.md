@@ -4,7 +4,6 @@ title: Waiting for visa
 date: 2023-02-18
 description: Navigating Bureaucracy
 tags: work
-categories: work
 ---
 ## Current visa issues 
 
