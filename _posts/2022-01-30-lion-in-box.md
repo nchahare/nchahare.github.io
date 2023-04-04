@@ -2,7 +2,7 @@
 title: "Lion in a box"
 author: Nimesh Chahare
 date: 2022-01-30
-tags: origami
+tags: Origami
 excerpt:
 layout: post
 
