@@ -3,7 +3,7 @@ title: Mechanics of epithelial layers subjected to controlled pressure and tensi
 date: 2022-05-25
 author: Nimesh Chahare
 excerpt: Description of my PhD project
-tags: Articles
+tags: articles
 layout: post
 
 ---

@@ -5,7 +5,7 @@ layout: post
 
 date: 2021-08-20
 description: A Recap of the Recent Mini-Symposium.
-tags: Articles
+tags: articles
 ---
 ## Introduction
 The fascinating intersection of mechanobiology and hydraulics has been attracting significant attention in recent years. Researchers have been uncovering how mechanical processes direct morphogenesis across various scales, including the role of hydraulics in biology. I recently attended the [Cell & Tissue Hydraulics Mini-Symposium](https://www.mbi.nus.edu.sg/hydraulics2021/#programme), held online, which brought together experts in the field to discuss their latest research findings and pave the way for future collaborations. Despite the limited interaction due to the online format, the symposium provided an incredible opportunity to learn about cutting-edge developments in the field. In this blog post, I will provide a list of essential papers to check out.

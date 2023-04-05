@@ -2,7 +2,7 @@
 title: "Rose in a pot"
 author: Nimesh Chahare
 date: 2020-04-20
-tags: Origami
+tags: origami
 excerpt: 
 layout: post
 ---

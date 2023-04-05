@@ -3,7 +3,7 @@ title: Adding Math to my jekyll webpage
 date: 2022-08-17
 author: Nimesh Chahare
 excerpt:
-tags: Learnings
+tags: notes
 mathjax: true
 layout: post
 

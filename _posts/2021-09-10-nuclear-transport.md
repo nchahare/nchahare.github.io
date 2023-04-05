@@ -3,7 +3,7 @@ title: Computational tool for analysing nuclear to cytoplasmic transport
 author: Nimesh Chahare
 excerpt: Description of my collaboration with Ion Andreu
 date: 2021-09-10
-tags: Articles
+tags: memories
 layout: post
 ---
 **Incomplete**

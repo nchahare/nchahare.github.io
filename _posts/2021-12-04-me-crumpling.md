@@ -2,7 +2,7 @@
 title: "Me at the origami museum"
 author: Nimesh Chahare
 date: 2021-12-04
-tags: Origami
+tags: origami
 layout: post
 
 ---

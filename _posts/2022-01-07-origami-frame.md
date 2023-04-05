@@ -2,7 +2,7 @@
 title: "Origami frame with birds and boats"
 author: Nimesh Chahare
 date: 2022-01-07
-tags: Origami
+tags: origami
 excerpt:
 layout: post
 

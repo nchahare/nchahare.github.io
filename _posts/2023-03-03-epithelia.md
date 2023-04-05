@@ -5,7 +5,7 @@ layout: post
 
 date: 2023-03-03
 description: Discover the Origin and Importance of Epithelial Tissues in Our Bodies
-tags: Articles
+tags: articles
 ---
 
 The human body is a marvel of biological engineering, with its intricate systems and complex tissues that work in harmony to ensure our survival. One of the most important and abundant types of tissue is the epithelium, which covers our organs both inside and out. In this article, we'll delve into the fascinating history of epithelia, how these tissues were first discovered, and the critical roles they play in our bodies.

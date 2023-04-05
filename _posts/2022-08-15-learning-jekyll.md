@@ -2,7 +2,7 @@
 title: "Making a webpage using Jekyll"
 author: Nimesh Chahare
 date: 2022-08-15
-tags: Learnings
+tags: notes
 layout: post
 
 ---
