@@ -3,7 +3,7 @@ title: "Epithelia: A Journey from Death to Life"
 author: Nimesh Chahare
 layout: post
 
-date: 2023-03-03
+date: 2022-11-03
 description: Discover the Origin and Importance of Epithelial Tissues in Our Bodies
 tags: articles
 ---
