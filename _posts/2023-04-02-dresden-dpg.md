@@ -14,6 +14,11 @@ A few months ago, I signed up for this conference with a solid plan in mind. By 
 
 But, as you can guess, none of this really happened.
 
+<div class="row justify-content-sm-center">
+{% include figure.html path="assets/img/bitmap_#image1105_dresden.png" title="Image of dresden" class="img-fluid rounded z-depth-1" %}
+</div>
+<br>
+
 ## Just Before the Conference
 
 I soon realized that my paper was going nowhere, and I needed to focus on finishing my thesis. I managed to complete the writing, but the bureaucracy and revisions ate up a huge chunk of my time. I had to address loads of criticism about the style, which meant working 12-hour days for weeks on end. Three days before leaving for the conference, I was finally ready to submit my thesis. However, we hit a roadblock. We needed a committee to review the thesis and members for the tribunal – crazy stuff! I decided to get all the information, forms, and signatures sorted out before I left for Germany.
@@ -68,6 +73,11 @@ The conference was so large that it relied on volunteers, many of whom were stud
 
 The talks were great, but I was often distracted due to thesis edits. I got the "professor experience," editing text on my laptop while a PhD student presented. I was also working on my presentation, which I hadn't rehearsed. In the end, I delivered a good presentation and answered most of the questions. My thesis was nowhere near submission.
 
+<div class="row justify-content-sm-center">
+{% include figure.html path="assets/img/bitmap_#image1117_dresden.png" title="Image of me presenting" class="img-fluid rounded z-depth-1" %}
+</div>
+<br>
+
 The weather improved, so we went for a walk and explored the city. We strolled through the commercial area and visited the fanciest sports store I've ever seen, Globetrotters. It was like Decathlon but for wealthy Germans, and the prices were five times higher. As a Decathlon patron, I found it too expensive.
 
 Outside the store, we saw MLKPD protestors. I would have loved to talk to them, but they didn't speak English. It's always nice to see ML protestors.
@@ -77,6 +87,11 @@ We returned to the hotel and then went to a vegan restaurant for dinner. The pay
 I attended all the cell mechanics and tissue mechanics sections, which were pretty good. I took a chance and went to the active matter section, which turned out to be a disaster—the talks were irrelevant and extremely boring. Thesis writing and Paracetamol eating continued. I think my worsening condition was due to the thesis. Both of us felt bad, so we ate regular food—vegetarian doner kebabs and tea—to feel better. Our poor health caused us to miss the bar-hopping social events; we were too tired to participate.
 
 On Wednesday, the weather improved. At least it was not freezing anymore. We had all the talks in the morning, so we could do some tourism after lunch. We had amazing currywurst in front of the Culture Palace. We were eating while facing the large mural of the workers' movement in Germany.
+
+<div class="row justify-content-sm-center">
+{% include figure.html path="assets/img/bitmap_#image1148_dresden.png" title="Image of workers mural" class="img-fluid rounded z-depth-1" %}
+</div>
+<br>
 
 We went to see the Frauenkirche, Church of Our Lady, which was pretty nice. We could go up the stairs to the top of the dome to see the amazing view of the city. You have to pay for this, though. I think it is worth it. Tom told me that during World War II, this city was totally destroyed and flattened to the ground. You might have heard this in Kurt Vonnegut's famous book, Slaughterhouse-Five. The firebombing of Dresden was one of the brutal attacks on civilians carried out by the British and US air forces.
 
