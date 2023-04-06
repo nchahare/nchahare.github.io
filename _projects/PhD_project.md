@@ -2,7 +2,7 @@
 layout: page
 title: MOLI
 description: My PhD project about epithelial mechanics
-img: assets/img/molibw.png #molidev.png
+img: assets/img/molidev.png
 importance: 1
 category: work
 ---

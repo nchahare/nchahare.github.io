@@ -3,7 +3,7 @@ title: monument
 description: Construction of People's friendship monument
 importance: 1
 category: fun
-img: assets/img/hypar.png
+img: assets/img/peoplesfriendship.jpg
 layout: page
 redirect: https://nchahare.github.io/projects/
 

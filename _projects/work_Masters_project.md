@@ -4,7 +4,7 @@ description: Design and fabrication of shear device for cell mechanics
 importance: 6
 category: work
 layout: page
-img: assets/img/shearbw.png
+img: assets/img/2022-09-03-13-22-54-image.png
 ---
 
 # Design and fabrication of miniature shear device for cell mechanics

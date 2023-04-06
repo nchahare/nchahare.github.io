@@ -2,7 +2,7 @@
 layout: page
 title: Misplaced quotes
 description: Posters with quotes
-img: assets/img/pipe.png # idea: put a sketch of a pipe and write on top it is not true. haha
+img: assets/img/pear.jpg # idea: put a sketch of a pipe and write on top it is not true. haha
 importance: 3
 category: fun
 ---
