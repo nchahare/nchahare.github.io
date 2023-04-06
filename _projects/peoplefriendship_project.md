@@ -1,7 +1,7 @@
 ---
 title: monument
 description: Construction of People's friendship monument
-importance: 1
+importance: 4
 category: fun
 img: assets/img/peoplesfriendship.jpg
 layout: page
