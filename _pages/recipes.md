@@ -17,7 +17,7 @@ horizontal: false
   {%- assign sorted_projects = categorized_projects %}
   <!-- Generate cards for each project -->
   <div class="grid">
-    <div class="row row-cols-2">
+    <div class="row row-cols-4">
     {%- for project in sorted_projects -%}
       {% include recipes_horizontal.html %}
     {%- endfor %}
