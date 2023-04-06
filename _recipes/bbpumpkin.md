@@ -8,6 +8,9 @@ description:  Pumpkin Mash dish
 
 Bhoplyacha Bharit is a traditional Maharashtrian dish made with mashed pumpkin and flavored with aromatic spices. This healthy, delicious, and easy-to-make dish is perfect for a light lunch or a side dish to complement your meal.
 
+Please refer to the [author's notes](https://nchahare.github.io/blog/2022/cooking/) if this is your first time here.
+
+
 ## ingredients
 
 -   500 grams pumpkin, peeled, deseeded, and cubed
