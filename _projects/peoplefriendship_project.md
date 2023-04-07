@@ -5,6 +5,6 @@ importance: 4
 category: fun
 img: assets/img/peoplesfriendship.jpg
 layout: page
-redirect: https://nchahare.github.io/projects/
+redirect: https://nchahare.github.io/blog/2022/peoplesfriendship/
 
 ---
