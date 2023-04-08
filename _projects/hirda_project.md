@@ -5,5 +5,5 @@ description: Design and Fabrication of a Hirda Cracking Machine
 img: assets/img/hirdacracker.png
 importance: 9
 category: work
-redirect: https://nchahare.github.io/blog/2022/peoplesfriendship/
+redirect: https://nchahare.github.io/blog/2014/btech/
 ---
