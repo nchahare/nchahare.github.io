@@ -17,6 +17,8 @@ toc:
   - name: Conclusion
 ---
 
+*Adapted from the published manuscirpt: [Andreu, I. + , Falcones, B. + , Hurst, S., Chahare, N., Quiroga, X., Le Roux, A. L., … & Roca-Cusachs, P. (2021). The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening. Nature communications, 12(1), 1-12.](https://www.nature.com/articles/s41467-021-24383-3)*
+
 ## Introduction
 Cells are constantly subjected to forces that play a crucial role in regulating various biological processes in both health and disease. Despite the importance of these forces, the fundamental mechanical variables that cells sense and respond to remain incompletely understood, and have been a subject of intense debate among researchers. In this study, we aim to shed light on the role of the loading rate in mechanosensing, investigating how cells respond to both directly applied forces and passive mechanical stimuli. We hypothesize that the loading rate triggers reinforcement at the sub-µm adhesion scale and cytoskeletal softening at the cell scale, which could have important implications for understanding mechanosensing mechanisms in various biological contexts.
 

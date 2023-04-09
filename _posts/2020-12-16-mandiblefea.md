@@ -17,6 +17,8 @@ toc:
   - name: Conclusion
 ---
 
+*Adapted from the published manuscirpt: [Kundanati, L., Chahare, N. R., Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N. (2020). Cutting mechanics of wood by beetle larval mandibles. Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027](https://www.sciencedirect.com/science/article/abs/pii/S1751616120305786?via%3Dihub).*
+
 ## Introduction
 
 Wood boring beetles cause significant damage to forests, crops, and timber. The larvae's ability to tunnel inside wood allows them to evade their natural enemies and access a nutritional source with reduced competition. The coffee white stem borer (CWSB), Xylotrechus quadripes, is a major pest that devastates coffee plantations. This study aims to analyze the structure-property relationships of the CWSB larval mandibles and their response to mechanical stresses during wood cutting.
