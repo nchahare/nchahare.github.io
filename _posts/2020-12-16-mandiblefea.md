@@ -50,7 +50,7 @@ I further investigated the spatial variations in the von Mises stresses along th
 The hollow structure in the mandible extended from approximately 165 μm at the tip to the base of the mandible, coinciding with regions on the back and front surfaces having less stress (<90 MPa). The presence of the hollow region and its relationship with stress distributions suggest that these biomechanical adaptations aid in the cutting of wood by the mandibles.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/fea3.jpg" alt="fre introduction" caption="von Mises stress distributions corresponding to A) fully pinned, B) Semi pinned, and C) Pivot boundary conditions are shown on the back, midsection, front, and base surfaces of the mandible." %}
+{% include figure.html path="assets/img/fea2.jpg" alt="fre introduction" caption="von Mises stress distributions corresponding to A) fully pinned, B) Semi pinned, and C) Pivot boundary conditions are shown on the back, midsection, front, and base surfaces of the mandible." %}
 </div>
 
 ## Conclusion
