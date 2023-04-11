@@ -46,12 +46,8 @@ For 4 portions
   method="POST"
 >
   <label>
-    Your email:
+    If you want to get updates for new recipes, please subscribe to the mailing list. Add your email:
     <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="If you want to get updates for new recipes, please subscribe to the mailing list"></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
