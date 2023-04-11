@@ -4,35 +4,74 @@ title:  media
 nav: true
 nav_order: 5
 description: highlights of my projects in pictures
+
 ---
 
 There is always more than meets the eye. I am not just an engineer. I have other interests, like cooking, learning new things, making origami. Here you can see pictures related to my work or random things I do on this part of the internet.
 
-{% assign image_folder = "assets/gal/" %}
-
-{% comment %} 
-Get a list of all image files in the folder, sorted by filename
-{% endcomment %}
-{% assign image_files = site.static_files | where: "path", image_folder | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' | sort: "name" %}
-
-{% comment %} 
-Group the image files into rows of three
-{% endcomment %}
-{% assign row_size = 3 %}
-{% assign num_rows = image_files | size | divided_by: row_size %}
-
-{% comment %} 
-Loop through the rows and generate the columns for each row
-{% endcomment %}
-{% for i in (0..num_rows) %}
-  <div class="row mt-3">
-    {% for j in (0..row_size-1) %}
-      {% assign index = i*row_size + j %}
-      {% if index < image_files | size %}
-        <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html path=image_files[index].path class="img-fluid rounded z-depth-1" zoomable=true %}
-        </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-{% endfor %}
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/image1105_dresden.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/DALL·E 2023-03-09 08.51.34 - gaudi style trencadis hemisphere with blue background.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/IMG_20230110_202613.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/mandible.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/bcc1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/gal/image1117_dresden.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/birdsandboats.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lions.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/peoplesfriendship.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sheardevice.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/lizard.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/pureAL.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/misti.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/roseinapot.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/smallelephant.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/btechmachine.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/meatmuseum.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/mewithme.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
