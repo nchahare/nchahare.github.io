@@ -8,29 +8,31 @@ description: highlights of my projects in pictures
 
 There is always more than meets the eye. I am not just an engineer. I have other interests, like cooking, learning new things, making origami. Here you can see pictures related to my work or random things I do on this part of the internet.
 
-{% assign image_folder = 'assets/gal' %}
+{% assign image_folder = "assets/gal/" %}
+
+{% comment %} 
+Get a list of all image files in the folder, sorted by filename
+{% endcomment %}
+{% assign image_files = site.static_files | where: "path", image_folder | where_exp: "file", "file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' | sort: "name" %}
+
+{% comment %} 
+Group the image files into rows of three
+{% endcomment %}
 {% assign row_size = 3 %}
+{% assign num_rows = image_files | size | divided_by: row_size %}
 
-<style>
-  .gallery-image {
-    width: 100%;
-    height: auto;
-    object-fit: cover;
-  }
-</style>
-
-<div class="container">
-  {% assign images_in_folder = site.static_files | where_exp: "file", "file.path contains image_folder" %}
-  {% for file in images_in_folder %}
-    {% assign column = forloop.index0 | modulo: row_size %}
-    {% if column == 0 %}
-      <div class="row mt-3">
-    {% endif %}
-        <div class="col-md-4 mt-3 mt-md-0">
-          <img src="{{ file.path }}" alt="" class="img-fluid rounded z-depth-1 gallery-image">
+{% comment %} 
+Loop through the rows and generate the columns for each row
+{% endcomment %}
+{% for i in (0..num_rows) %}
+  <div class="row mt-3">
+    {% for j in (0..row_size-1) %}
+      {% assign index = i*row_size + j %}
+      {% if index < image_files | size %}
+        <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path=image_files[index].path class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
-    {% if column == row_size | minus: 1 or forloop.last %}
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endfor %}
