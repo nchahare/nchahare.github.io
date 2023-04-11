@@ -5,5 +5,5 @@ title: cv
 description: Highlights of my academic career
 nav: true
 nav_order: 2
-cv_pdf: nimesh_cv.pdf
+cv_pdf: nimeshcv.pdf
 ---
