@@ -20,16 +20,17 @@ There is always more than meets the eye. I am not just an engineer. I have other
 </style>
 
 <div class="container">
-  <div class="row mt-3">
-    {% for file in site.static_files %}
-      {% if file.path contains image_folder %}
-        {% if forloop.index0 % row_size == 0 and forloop.index0 != 0 %}
-        </div><div class="row mt-3">
-        {% endif %}
+  {% assign images_in_folder = site.static_files | where_exp: "file", "file.path contains image_folder" %}
+  {% for file in images_in_folder %}
+    {% assign column = forloop.index0 | modulo: row_size %}
+    {% if column == 0 %}
+      <div class="row mt-3">
+    {% endif %}
         <div class="col-md-4 mt-3 mt-md-0">
           <img src="{{ file.path }}" alt="" class="img-fluid rounded z-depth-1 gallery-image">
         </div>
-      {% endif %}
-    {% endfor %}
-  </div>
+    {% if column == row_size | minus: 1 or forloop.last %}
+      </div>
+    {% endif %}
+  {% endfor %}
 </div>
