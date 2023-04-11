@@ -30,7 +30,7 @@ Loop through the rows and generate the columns for each row
       {% assign index = i*row_size + j %}
       {% if index < image_files | size %}
         <div class="col-sm mt-3 mt-md-0">
-          {% include figure.html path=image_files[index].path %}
+          {% include figure.html path=image_files[index].path class="img-fluid rounded z-depth-1" zoomable=true %}
         </div>
       {% endif %}
     {% endfor %}
