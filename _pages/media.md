@@ -27,7 +27,7 @@ There is always more than meets the eye. I am not just an engineer. I have other
       <div class="row mt-3">
     {% endif %}
         <div class="col-md-4 mt-3 mt-md-0">
-          {% include figure.html path ="{{ file.path }}" alt="" class="img-fluid rounded z-depth-1" zoomable=true }
+          <img src="{{ file.path }}" alt="" class="img-fluid rounded z-depth-1 gallery-image">
         </div>
     {% if column == row_size | minus: 1 or forloop.last %}
       </div>
