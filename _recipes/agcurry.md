@@ -38,6 +38,3 @@ For 4 portions
 - Cook the potatoes on medium heat for 5-6 minutes with the lid on. Keep stirring. If you use boiled potatoes then you don't need to leave it this long
 - When potatoes are almost done and add cauliflower. Mix it well. Let it cook for 5min more. If the curry is looking too dry add water and let it evaporate
 - Finally, squeeze in some fresh lemon juice and enjoy!
-
-    
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxl9Xn2-x-xiScF0fY5EtmX2STObeRe8U_jl5MliHTToftLQ/viewform?embedded=true" width="360" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
