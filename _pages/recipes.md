@@ -23,7 +23,8 @@ horizontal: false
     {%- endfor %}
     </div>
   </div>
+
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxl9Xn2-x-xiScF0fY5EtmX2STObeRe8U_jl5MliHTToftLQ/viewform?embedded=true" width="360" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
   {%- endfor %}
 </div>
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfxl9Xn2-x-xiScF0fY5EtmX2STObeRe8U_jl5MliHTToftLQ/viewform?embedded=true" width="360" height="407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
