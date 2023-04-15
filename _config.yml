@@ -152,6 +152,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - thesis.html
+
 keep_files:
   - CNAME
   - .nojekyll
