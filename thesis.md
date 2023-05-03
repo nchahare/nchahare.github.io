@@ -1,0 +1,19 @@
+---
+layout: distill
+title: Mechanics of epithelial tissue subjected to controlled pressure
+description:  Epithelial sheets form specialized 3D structures suited to their physiological roles, such as branched alveoli in the lungs, tubes in the kidney, and villi in the intestine. To generate and maintain these structures, epithelia must undergo complex 3D deformations across length and time scales. How epithelial shape arises from active stresses, viscoelasticity, and luminal pressure remains poorly understood. To address this question, we developed a microﬂuidic chip and a computational framework to engineer 3D epithelial tissues with controlled shape and pressure. In the setup, an epithelial monolayer is grown on a porous surface with circular low adhesion zones. On applying hydrostatic pressure, the monolayer delaminates into a spherical cap from the circular zone. This simple shape allows us to calculate epithelial tension using Laplace’s law. Through this approach, we subject the monolayer to a range of lumen pressures at diﬀerent rates and hence probe the relation between strain and tension in diﬀerent regimes while computationally tracking actin dynamics and their mechanical eﬀect at the tissue scale. Slow pressure changes relative to the actin dynamics allow the tissue to accommodate large strain variations. However, under sudden pressure reductions, the tissue develops buckling patterns and folds with diﬀerent degrees of symmetry-breaking to store excess tissue area. These insights allow us to pattern epithelial folds through rationally directed buckling. Our study establishes a new approach for engineering epithelial morphogenetic events 
+date: 2023-04-03
+tags: 
+authors:
+  - name: Nimesh R. Chahare
+    url: "https://nchahare.github.io"
+    affiliations:
+      name: Universitat Politècnica de Catalunya, Barcelona
+
+---
+
+
+<object data="/assets/NimeshThesis20230430.compressed.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
+
