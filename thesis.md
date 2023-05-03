@@ -12,16 +12,9 @@ authors:
 
 ---
 
-<div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/coverthesis.png" alt="fre introduction" caption="Cover page." %}
-</div>
-
-
 ## Thesis
 
-You can find the digital copy of the thesis in the following links:
-
-[.pdf file](https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IB18ID41ib8bMLpmnlvpGkyg?e=aTt1jt)
+You can find the digital copy of the thesis in the following links: [.pdf file](https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IB18ID41ib8bMLpmnlvpGkyg?e=aTt1jt)
 
 
 ## Abstract
