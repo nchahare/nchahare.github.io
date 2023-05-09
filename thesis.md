@@ -4,6 +4,7 @@ title: Mechanics of epithelial tissue subjected to controlled pressure
 description: PhD Thesis from Doctoral program in Applied Mathematics
 date: 2023-04-03
 tags: 
+redirect: https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IBOnH65MoH7ZWXLXXnaoCJJQ?e=4A4mjk
 authors:
   - name: Nimesh R. Chahare
     url: "https://nchahare.github.io"
@@ -14,7 +15,7 @@ authors:
 
 ## Thesis
 
-You can find the digital copy of the thesis in the following links: [.pdf file](https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IB18ID41ib8bMLpmnlvpGkyg?e=aTt1jt)
+You can find the digital copy of the thesis in the following links: [.pdf file](https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IBOnH65MoH7ZWXLXXnaoCJJQ?e=4A4mjk)
 
 
 ## Abstract
