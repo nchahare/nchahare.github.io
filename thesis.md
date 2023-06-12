@@ -19,14 +19,11 @@ Epithelial sheets form specialized 3D structures suited to their physiological r
 
 ## Thesis Defense
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFk8SVpWpc&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFk8SVpWpc&#x2F;watch?utm_content=DAFk8SVpWpc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">phddefenseinvite</a> by Fèlix Esquerra
+I will be defending my thesis on 20th June 2023 3PM at Universitat Politècnica de Catalunya - Facultat de Matemàtiques i Estadística-Sala d'Actes FME, Edifici U, Campus Sud.
+
+You can follow the directions on [Google maps](https://www.google.com/maps/place/UPC+Facultat+de+Matem%C3%A0tiques+i+Estad%C3%ADstica/@41.3834784,2.1158245,15z/data=!4m6!3m5!1s0x12a498582711d819:0xa37cf84e2892cb6f!8m2!3d41.3834784!4d2.1158245!16s%2Fm%2F0121jr9_?entry=tts&shorturl=1)
+
+I present my talk for 40-50 min. Jury will ask me some questions for an hour or so. Then all of us will have some cava and some snacks. Finally, we will go for beers later to a nearby bar.
 
 ## Thesis
 
