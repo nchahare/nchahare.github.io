@@ -9,6 +9,7 @@ authors:
     url: "https://nchahare.github.io"
     affiliations:
       name: Universitat Politècnica de Catalunya, Barcelona
+featured: true
 
 toc:
   - name: Introduction
