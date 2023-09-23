@@ -3,10 +3,10 @@ layout: page
 title: MOLI
 description: My PhD project about epithelial mechanics
 img: assets/img/molidev.png
+redirect: https://nchahare.github.io/thesis/
 importance: 1
 category: work
 ---
-
 # Mechanics of epithelial layers subjected to controlled pressure and tension
 
 This is my main PhD project. I started with Prof. Xavier Trepat, an experimentalist, and Prof. Marino Arroyo, a mathematician. I chose to work with these people to combine my desire to work at the interface of experimentation and theory. I am trained in mechanics of materials; and the materials like Epithelial sheets fascinated me endlessly.
