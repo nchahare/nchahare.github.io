@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Mechanics of epithelial tissue subjected to controlled pressure
-description: PhD Thesis from Doctoral program in Applied Mathematics
+description: Nimesh Chahare's PhD Thesis from Doctoral program in Applied Mathematics
 date: 2023-04-03
 tags: 
 redirect: https://ibecbarcelona-my.sharepoint.com/:b:/g/personal/nchahare_ibecbarcelona_eu/EX9kIbL1ETtDt6lga27_k3IBOnH65MoH7ZWXLXXnaoCJJQ?e=4A4mjk
@@ -12,6 +12,7 @@ authors:
       name: Universitat Politècnica de Catalunya, Barcelona
 
 ---
+# Nimesh Chahare PhD Thesis
 
 ## Abstract
 
