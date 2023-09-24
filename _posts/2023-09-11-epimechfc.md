@@ -1,5 +1,5 @@
 ---
-title: "Tweeting Epithelial Mechanics: My Adventures on Twitter"
+title: "Tweeting Epithelial Mechanics"
 author: Nimesh Chahare
 layout: post
 
