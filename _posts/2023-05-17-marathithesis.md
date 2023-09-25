@@ -19,4 +19,4 @@ After hours of writing, editing, and revisions, I presented the Marathi summary 
 This experience taught me that language should never hinder sharing our achievements and emotions with our loved ones. 
 
 You can find the digital copy of the article in the following link:
-<embed src="assets/pdf/marathithesis.pdf" width="500" height="600" type="application/pdf">
+<embed src="../assets/pdf/marathithesis.pdf" width="500" height="600" type="application/pdf">
