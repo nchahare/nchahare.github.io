@@ -20,4 +20,4 @@ This experience taught me that language should never hinder sharing our achievem
 
 You can find the digital copy of the article in the following link:
 
-<embed path="assets/pdf/marathithesis.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="assets/pdf/marathithesis.pdf" type="application/pdf" width="100%" height="600px" />
