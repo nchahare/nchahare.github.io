@@ -164,6 +164,10 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
+  - jekyll-get-json
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-toc
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
