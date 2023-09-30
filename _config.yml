@@ -44,6 +44,11 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
+# table of content
+toc:
+  min_level: 2 # default: 1
+  max_level: 5 # default: 6
+
 
 navbar_fixed: true
 footer_fixed: true
