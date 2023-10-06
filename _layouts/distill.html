@@ -27,7 +27,7 @@
         {% for author in page.authors -%}
         {
           "author": "{{ author.name }}",
-          "authorURL": "{{ author.url }}",
+          "authorURL": "{{ author.url }}"
           ]
         }{% if forloop.last == false %},{% endif %}
         {% endfor %}
