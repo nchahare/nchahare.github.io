@@ -2,7 +2,7 @@
 layout: distill
 title: How to setup VS code for python
 description: an example of a distill-style blog post and main elements
-date: 2000-05-22
+date: 2023-10-20
 tags: notes
 toc: true
 
