@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: How to setup VS code for python
-description: an example of a distill-style blog post and main elements
+description: Just list of extensions needed for python to work well.
 date: 2023-10-20
 tags: notes
 toc: true
@@ -11,26 +11,11 @@ authors:
     url: "https://nchahare.github.io"
     affiliations:
       name: Institute for Bioengineering of Catalonia, Barcelona
-
-
-# Below is an example of injecting additional post-specific styles.
-# If you use this post as a template, delete this _styles block.
-_styles: >
-  .fake-img {
-    background: #bbb;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.1);
-    margin-bottom: 12px;
-  }
-  .fake-img p {
-    font-family: monospace;
-    color: white;
-    text-align: left;
-    margin: 12px 0;
-    text-align: center;
-    font-size: 16px;
-  }
-
+toc:
+  - name: Introduction
+  - name: Extensions
+  - name: Install packages
+  - name: References
 ---
 
 
@@ -51,7 +36,7 @@ It's Free, little bit open source, but owned by Bill Gates. So don't get use it.
 	   Workspace stores all your folders and settings in the file. So next time you can just open the workspace file.
 4. Download extensions, icon is on the left 
 
-### Extensions
+## Extensions
 
 1. Python extension pack
 	
@@ -79,7 +64,7 @@ So Idea is that in vscode you can open the jupyter notebook and run like normal 
 
 By turning on the option, you can open the python file, select the like of code and press `shift + enter` . This opens another window which is like jupyter notebook.
 
-### Install packages
+## Install packages
 
 Easy just use pip, it works and it is simple
 `pip install blah`
