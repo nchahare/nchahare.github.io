@@ -50,7 +50,7 @@ It's Free, little bit open source, but owned by Bill Gates. So don't get use it.
 	- [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent "https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent") - Correct python indentation in Visual Studio Code.
 	- [Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter") - Provides Jupyter notebook support for Python language, used for data science, scientific computing and machine learning.
 
-2. Pylance: Fast, feature-rich language support for Python
+2. Pylance: Fast, feature-rich language support for Python (*update: they have added this part in the extension pack since this post was written.*)
 3. Jupyter: Notebook for python
 4. CodeSnap: Lets you take screenshots of code
 5. Path Intellisense: Visual Studio Code plugin that autocompletes filenames.
