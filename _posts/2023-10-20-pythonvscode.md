@@ -3,7 +3,7 @@ layout: distill
 title: How to setup VS code for python
 description: Just list of extensions needed for python to work well.
 date: 2023-10-20
-tags: notes
+tags: resources
 toc: true
 
 authors:
