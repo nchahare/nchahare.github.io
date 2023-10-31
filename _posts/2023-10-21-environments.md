@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: How to do environments in python
+title: "Python: How to do environments"
 description: Explanation of envirnonments in Conda and PIP
 date: 2023-10-21
 tags: resources

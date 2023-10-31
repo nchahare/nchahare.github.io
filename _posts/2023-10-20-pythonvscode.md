@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: How to setup VS code for python
+title: "Python: How to setup VS code"
 description: Just list of extensions needed for python to work well.
 date: 2023-10-20
 tags: resources

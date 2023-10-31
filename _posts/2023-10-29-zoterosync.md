@@ -23,7 +23,7 @@ toc:
 
 # How to Sync Files in Zotero
 
-Zotero is a powerful reference management tool that allows you to organize and access your research materials with ease. While it primarily stores reference data, it's important to understand that you can also sync files such as PDFs to your library. In this tutorial, we'll show you how to effectively sync your Zotero library, including PDFs, across multiple devices.
+Zotero is a powerful reference management tool that allows you to organize and access your research materials with ease. While it primarily stores reference data, it's important to understand that you can also sync files such as PDFs to your library. If you compare it with Mendeley,**it only has 300MB of online storage**. In this tutorial, we'll show you how to effectively sync your Zotero library, including PDFs, across multiple devices.
 
 ## Understanding Zotero's Data and Files
 
