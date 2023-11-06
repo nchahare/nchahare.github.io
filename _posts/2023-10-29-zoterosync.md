@@ -1,5 +1,5 @@
 ---
-title: "Zotero Tutorial: How to sync files"
+title: "Zotero: How to sync files"
 author: Nimesh Chahare
 layout: distill
 date: 2023-10-29
