@@ -15,10 +15,10 @@ There is always more than meets the eye. I am not just an engineer. I have other
 </div>
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/gal/epimech.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/gal/GBFQXidW0AAACMd.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/gal/GBFQXidW0AAACMd.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/gal/epimech.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="row justify-content-sm-center">
