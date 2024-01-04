@@ -22,10 +22,10 @@ There is always more than meets the eye. I am not just an engineer. I have other
     </div>
 </div>
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/gal/GBFPAUbX0AAyBXM.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/gal/1702570032816.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
