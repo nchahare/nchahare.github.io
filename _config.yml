@@ -106,7 +106,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: Journal of Experimental Nimesh # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Account of my experiences and fleeting thoughts.
+blog_description: Account of my experiences and fleeting thoughts. [Withheld till Fall 2024]
 permalink: /blog/:year/:title/
 
 # Pagination
