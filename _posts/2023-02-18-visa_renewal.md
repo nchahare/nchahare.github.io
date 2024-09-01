@@ -1,0 +1,65 @@
+---
+layout: post
+title: Waiting for visa
+date: 2023-02-18
+description: Navigating Bureaucracy
+tags: memories
+---
+## Current visa issues 
+
+As someone who has lived abroad for several years, I have gained firsthand experience with the joys and challenges of navigating the visa system. However, my recent experience with visa renewal has been particularly frustrating and anxiety-inducing.
+
+I have a Spanish residence permit that was valid until the end of 2022. In mid-November, I applied for a renewal, but my application was rejected due to errors in the documents provided by my HR department. We reapplied in mid-December but didn't hear back from the government. January came and went, and I became increasingly nervous as I had a conference in Germany and two weddings to attend in India, but I couldn't travel because of my visa situation. Although there was hope that I would get approval just before the weddings, the uncertainty was stressful.
+
+Typically, the process for renewal is as follows:
+
+1.  You apply for the renewal.
+2.  The government sends you an approval or rejection, which is called "resolution." If the resolution is negative, you can appeal to get a positive one.
+3. Once you have a positive resolution, you ask for an appointment to give your fingerprints at a national police station. This step can take a long time due to a shortage of appointments.
+4. After giving your biometric information and submitting another application with a photo, you receive a document stating that your residence permit is in process, and you will receive it in a month.
+
+In my case, however, there was no reply from the government. To make matters worse, my HR department was unresponsive to my panicking emails. The only option that would allow me to travel out of Spain and return was an "authorization de regreso" (authorization for the return). To get this document, I needed to make an appointment and visit a police station, but appointments were in distant police stations and were in the distant future, which was not helpful for my travel situation. I was hoping to get a positive resolution to my visa renewal application, which would enable me to get the authorization de regreso and travel to India.
+
+It was early February and my hopes of getting my visa renewed were dwindling. I had to tell my best friend and cousin that I wouldn't be able to attend their wedding in India, and it saddened me. I had been looking forward to seeing my family and friends, and not being able to attend the wedding hit me harder than I expected.
+
+I kept reaching out to my HR department for updates on my visa renewal process. I explained that I had an upcoming physics conference in Germany in March, and I was worried I wouldn't be able to attend without a renewed visa. My HR department assured me that I could travel with a "regreso" document, which I obtained after booking an appointment at a distant police station. However, when I arrived at the police station, I was informed that the "regreso" document was only valid for traveling outside of the Schengen area, not for traveling to Germany. I was left without any legal documentation, and I worried that the airline might refuse to let me board my flight due to my expired visa.
+
+As of now, my visa still has not been renewed. This experience has left me feeling frustrated and angry at the immigration system. I am currently stuck in limbo, debating whether I should risk traveling to Germany and potentially getting detained or skipping the conference altogether.
+
+When I asked the police officer about the status of my visa application, he informed me that it wasn't showing up in the system. I relayed this information to my HR department, and they spoke with the immigration lawyers. We resubmitted my application, which cost me another 80EUR. Typically, I receive a resolution within 20 days, so I'm hoping to hear some positive news before it's too late.
+
+## Immigrants vibes
+
+Going through this experience has brought different ideas to my mind about immigration control and my class status as a scientist. I feel obliged to dress better and look more classy when I travel or go to the police station. It makes me think that they will treat me differently than some North African construction workers. In reality, I am not sure.
+
+But my experience with visa renewal goes beyond just bureaucratic hurdles. It's important to recognize that the visa system and border control policies are not merely obstacles, but are part of a broader system of power and inequality. The wealthy and privileged are able to navigate the system with relative ease, while those from less privileged backgrounds are often denied the same opportunities due to the high cost and complexity of visa applications. Moving freely remains a challenge for most working people around the world. This is already clear when we look at the migrant crisis across the world.
+
+Moreover, border control policies in Europe are frequently used to justify xenophobic and racist attitudes, perpetuating the idea that some people are more deserving of rights and opportunities than others based on their nationality or ethnicity. While I cannot articulate all my thoughts about fascistic borders or human migration in this blog post, I feel strongly that we could very easily have a bit of solidarity and compassion for the people who just want to work and live in better conditions.
+
+People have been migrating for many reasons throughout history: weather conditions, fertile land, economic opportunities, or fleeing oppressive conditions. Migration to Europe or North America is nothing special. It is just more highlighted in the media. When you see where people typically migrate to, it is usually internal to their countries or neighboring countries. In India, people migrate from villages to cities. If they have connections abroad, like in the Middle East, they go there to work and send money home. You see, it also has to do with class; the poor go to the city or the Middle East to work as a construction worker. If you are better trained and qualified, you go to Germany or the US.
+
+It is true that many places make it easy for highly trained people to live there because it is profitable for their industries. At the same time, they make life not too easy for immigrants by having them continuously renew their visas or wait for the stamping of their passports. People get stuck in a particular country for years and can't see their family in their home country. Traveling for parents is also hard, as you have to go through visa hurdles in India. For example, for a visitor visa to the US, the wait time for an appointment is around three years.
+
+## Diaspora's Anxieties and Nostalgia
+
+As I mentioned before, if you are wealthy, you can obtain permanent residency in Spain through a "golden visa" by investing half a million euros. If you are a skilled worker, you need to work continuously for five years to become eligible for permanent residency. Alternatively, you can marry a Spaniard to obtain residency.
+
+I do not know much about migrants with seasonal work visas or undocumented ones, but I see and interact with them all the time. They are the ones growing food for us and selling it in Pakistani fruit shops. There are barbers and people vending beer illegally in the streets. One man told me that there are people who travel to Malta for a film-making visa, and once they get in, they run to other countries and work within the South Asian network. The pay is low, but life is a little better, although you lose all your close relationships.
+
+However, many migrants, particularly young and highly-skilled workers, move for economic opportunities. They move countries if they find something better. In academia, researchers often work through a series of temporary contracts and short-term visa renewals. This creates a perpetual state of anxiety among migrants about the future and a strange nostalgia for their home country. Plans for the future often fail in the face of reality, and new interests come into life.
+
+I used to think that I would pursue a PhD in Europe, then do a Postdoc in the United States before eventually returning to India for a professorship. However, during my PhD, life became complicated. I fell in love, and my lifestyle and outlook toward society changed. Academia's problems became glaringly obvious to me. Trips to India became less frequent. Whenever I went to my hometown, I missed the blue sky of Barcelona and the beers in the sunny plaza. My previous plan of becoming a university professor in India no longer looked as appealing. However, I love science and will continue to push forward.
+
+My nostalgia for India has remained constant. In my mind, I am stuck in 2017 India, while India and Indians have moved on. During my first year, I started signing my name in Marathi, which I had never done before in India. I started listening to Marathi/Hindi music to stay in touch. But now, I feel totally detached from current India. I know about it as I know about any other country I read about in mainstream international news media.
+
+People say that it gets worse when you lose touch with friends and family in India and do not make any strong relationships where you move. In capitalist societies, we are already atomized, and communities are harder to find. It is always easy to just stick to your people and find Indian groups. It makes perfect sense why there are ghettos of immigrant communities. In some ways, it is an indictment of local communities for not integrating the new people into their culture, as well as the resilience of the vague cultural artifacts that bind these communities to their native land.
+
+If you have political differences, finding your people can become much harder, which is an unexpected problem. I feel that the Indian diaspora lives in a parallel universe together. Special groups pop up, and everyone is stuck in the Indian mindset of the time they left India. Somehow, most of them end up with a conservative tilt. It's quite funny when you meet someone who moved out of India in the late nineties. They talk about India like the Bollywood NRI people, which is quite ridiculous. It's amazing to hear their ideas about Indian nationalism, Hinduism, and the development of India. They believe the government is doing well, the roads from the airport to their hometown have gotten better, or that there's so much development in their beloved country that it's impossible to recognize. Meanwhile, they ignore foreign propaganda about Muslims, poor hungry people, farmers, suicides, and decaying democratic institutions.
+
+However, you can find small groups of dissidents who are all about science and social justice. They organize events on more secular lines, such as talks on Sunday afternoons with some snacks. They discuss science and current affairs and find people with a reasonable political alignment to talk about India's descent into fascism. It's quite fun to see people who run away when caste or prime minister is discussed. There are people of radical centrism, some who don't want to discuss politics at all and just want to work and chill. In the end, some manage to stick around and continue to organize or complain.
+
+Perhaps the diaspora in Spain isn't that big, but the people are usually nice and could help you if you ask nicely. Caste or linguistic networks are always a lifesaver. I remember when I moved to Barcelona, I had a hard time finding accommodation. I found one because of an Indian guy I knew. Then I got in trouble with my flat, and I asked for help on the Indians in Barcelona Facebook group. I moved in with an Indian family, which was one of the strangest experiences I've had. But then I found another flat with a couple of Indian friends.
+
+Hate them or love them, the diaspora will be the people who help you in need when you're new. Visa issues will continue until you get something permanent. When the conflict in Ukraine escalated, Indian students got stuck and needed rescue. My relative from India said, "Why should the Indian government save them and spend taxpayers' money on this?" Technically, these people studying medicine in Ukraine most likely won't come back to India. They may send some remittances; I saw that overseas Indians contribute around 50 billion USD. This is why the Indian government cares so much about the diaspora; they can also help increase soft power. In the end, as long as you have an Indian passport outside of India, you are Indian, and nobody is going to help you but Indian government in extreme crisis.
+
+Update: I got the resolution of the visa finally on 22nd March. I could travel to Germany without any problem, because no one checked my visa. Now I am waiting for the new residence card, which I will receive in one month.
