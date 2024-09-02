@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 - get css font change
+- download simple css and just try to see if it works locally
+- change size
 - add blog
 - add news
 - add gallery
