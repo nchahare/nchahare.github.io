@@ -27,7 +27,19 @@ url: "https://nchahare.github.io/" # the base hostname & protocol for your site,
 # Build settings
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
+# SEO Stuff
+author: Nimesh Chahare
+summary: This is Nimesh's small corner of the internet
+lang: en
+locale: en-US
+
+# RSS feeds
+feed:
+  posts_limit: 20
+
+# collections for news and recipes
 collections:
   news:
     output: true
