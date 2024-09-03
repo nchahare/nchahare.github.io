@@ -11,3 +11,4 @@ permalink: /about/
 - add news
 - add gallery
 - crucial add layout control for how homepage looks
+- fix xml and rss

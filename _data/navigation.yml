@@ -1,0 +1,8 @@
+- name: /nimesh
+  link: /lite/
+
+- name: /journal
+  link: /lite/journal/
+
+- name: /portfolio
+  link: /lite/about/
