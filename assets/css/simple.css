@@ -85,7 +85,7 @@ body > * {
 body > header {
   background-color: var(--accent-bg);
   border-bottom: 1px solid var(--border);
-  text-align: center;
+  text-align: right;
   padding: 0 0.5rem 2rem 0.5rem;
   grid-column: 1 / -1;
 }
@@ -94,14 +94,18 @@ body > header > *:only-child {
   margin-block-start: 2rem;
 }
 
+/* name of the page is here */
 body > header h1 {
-  max-width: 1200px;
+  max-width: 60rem;
   margin: 1rem auto;
+  text-align: left;
 }
 
+/* description of the page is here */
 body > header p {
-  max-width: 40rem;
+  max-width: 60rem;
   margin: 1rem auto;
+  text-align: left;
 }
 
 /* Add a little padding to ensure spacing is correct between content and header > nav */
@@ -251,16 +255,16 @@ input:enabled:focus-visible:where(
 
 /* Format navigation */
 header > nav {
-  font-size: 1rem;
+  font-size: 1.25rem;
   line-height: 2;
-  padding: 1rem 0 0 0;
+  padding: 0.5rem 0 0 0;
 }
 
 /* Use flexbox to allow items to wrap, as needed */
 header > nav ul,
 header > nav ol {
   align-content: space-around;
-  align-items: right;
+  align-items: center;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -282,7 +286,7 @@ header > nav a:visited {
   border: none;
   color: var(--text);
   display: inline-block;
-  padding: 0.1rem 1rem;
+  padding: 0.1rem 0.5rem;
   text-decoration: none;
 }
 

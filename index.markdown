@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Nimesh Chahare
 ---
 
 Hello! My name is Nimesh. I want to understand how living things get their shape. <br> I am a mechanical engineer by training so I try to view biology from the lens of mechanics. I did my PhD in Applied mathematics in Barcelona, where I tried to build 3D tissues in a dish with pressure.<br> Now, in New York, I am at Biomedical engineering, trying to understand how nature builds tissue in a living chicken. I focus on early embryonic brain development. For details check out my portfolio/cv. 

@@ -6,3 +6,6 @@
 
 - name: /portfolio
   link: /lite/about/
+
+- name: /media
+  link: /lite/media/
