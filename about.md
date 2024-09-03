@@ -11,6 +11,10 @@ permalink: /about/
 - ~~add news~~
 - add gallery
 - ~~crucial add layout control for how homepage looks~~
-- fix xml and rss
-- add portfolio
+- ~~fix xml and rss~~
+- ~~add portfolio~~
+- fix portfolio
 - fix home
+    - add colophon
+    - add whats up with us
+- add cv section
