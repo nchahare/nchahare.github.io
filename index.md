@@ -6,12 +6,21 @@ layout: home
 title: Nimesh Chahare
 ---
 
-Hello!
+Hello! My name is Nimesh Chahare. Welcome to my corner of the internet!
 
-My name is Nimesh Chahare. I am a Postdoctoral Research Scientist at Columbia University's Biomedical Engineering.
+This is where I share things I do and think about.
 
-I want to understand how living things get their shape. <br> I am a mechanical engineer by training so I try to view biology from the lens of mechanics. I did my PhD in Applied mathematics in Barcelona, where I tried to build 3D tissues in a dish with pressure.<br> Now, in New York, I am at Biomedical engineering, trying to understand how nature builds tissue in a living chicken. I focus on early embryonic brain development. For details check out my portfolio/cv. 
+I'm a scientist, mechanical engineer, amateur artist, and much more. Check my portfolio/CV.
 
-I know! It is very interesting. We can discuss more; contact me via [email](mailto:nimesh.c@columbia.edu).
+Currently, I work as a Postdoctoral Research Scientist at Columbia University's Biomedical Engineering department in New York City. My research focuses on understanding how mechanical forces drive morphogenesis, particularly in the early embryonic brain.
 
-Plus, I love learning new things. I cook curries; read novels; make origami;<br> or spend way too much time on internet.
+My background is in mechanical engineering and materials science. Living tissues as a material fascinate me the most. My PhD was on understanding the mechanics of epithelial tissues and exploring novel ways to engineer them. Interested? Read my thesis.
+
+I'm quite passionate about epithelial mechanics. In fact, I'm the convenor of the International Epithelial Mechanics Fan Club. It's a small community I started for those who share my interest. Join us!
+
+I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city. I try to share these interests on my blog. Please feel free to get in touch with me!
+
+## on the web
+
+[Work Email](mailto:nimesh.c@columbia.edu) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Google scholar](https://scholar.google.com/citations?user=g0yOthAAAAAJ&hl=en&oi=ao) / [Twitter](https://twitter.com/onenimesa/)
+

@@ -9,3 +9,6 @@
 
 - name: /media
   link: /lite/media/
+
+- name: /cv
+  link: /lite/media/

@@ -14,7 +14,11 @@ permalink: /about/
 - ~~fix xml and rss~~
 - ~~add portfolio~~
 - fix portfolio
+    - publications
+    - projects
+    - art projects
 - fix home
-    - add colophon
-    - add whats up with us
+    - fix links
+    - ~~add colophon~~
+    - ~~add whats up with us~~
 - add cv section
