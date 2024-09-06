@@ -4,25 +4,24 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-[Home](https://nchahare.github.io/)
-## Nimesh Chahare, PhD
+# Nimesh Chahare, PhD
 
-_Postdoctoral Research Scientist_ at Columbia University, New York City
+## Work
 
+I am a **Postdoctoral Research Scientist** at Columbia University, New York City with Prof. Nandan Nerurkar on understanding mechanics of morphogenesis in chick embryos.
 
-My name is Nimesh R. Chahare (निमेश रमेश चहारे). I am a mechanical engineer working with biological materials based in New York City, US. Throughout my research, I have been developing technologies to probe the mechanics of biology. In the future, I would like to explore emergent mechanical phenomena in cellular collectives.
+I am also a founder and convenor of the **International Epithelial Mechanics Club**, where we are building a community of scientists interested in Epithelial Mechanics and role of mechanical forces in biological contexts. 
 
-Please feel free to get in touch with me!
+## Interests
 
+My research interests are related to mechanobiology in development. This interest stems from my mechanical engineering background and time i spent in  biology laboratories lets me combine my knowledge of continuum mechanics and material testing with tissue engineering and microfluidics. My PhD created deep interest in cell and tissue dynamics leading to morphogenesis. And it continues to deepen in my Postdoc, where i solve developmental biology problems.
+
+## Contact
+
+Come say HI! to me on internet.
 
 [Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
 
-
-## ✏️ Research areas
-
-**Bioengineering**: Mechanobiology, Tissue engineering, and Lab-on-the-chip
-
-**Mechanics**: Continuum mechanics, Material testing, and Biophysics
 
 ## 👨‍🎓 Education
 
