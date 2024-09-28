@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Journal of experimental Nimesh
-description: Worlds second best non-peer review journal full of random things
+description: World's leading non-peer reviewed journal about Nimesh
 ---
 
 
