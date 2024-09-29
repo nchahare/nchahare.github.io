@@ -13,10 +13,11 @@ permalink: /about/
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
 - ~~add portfolio~~
-- fix portfolio
-    - publications
-    - projects
-    - art projects
+- ~~fix portfolio~~
+    - ~~publications~~
+    - ~~projects~~
+    - ~~art projects~~
+    - need to add proper links
 - fix home
     - fix links
     - ~~add colophon~~
