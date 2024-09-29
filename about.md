@@ -19,7 +19,8 @@ permalink: /about/
     - ~~art projects~~
     - need to add proper links
 - fix home
-    - fix links
+    - need to add proper links
     - ~~add colophon~~
     - ~~add whats up with us~~
-- add cv section
+- ~~add cv section~~
+    - add pdf corner

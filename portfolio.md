@@ -20,24 +20,24 @@ Combining mechanical engineering and biology, my research explores how physical 
 ## Projects
 
 ### Scientific
-- [Mechanobiology of early embryonic brain development](/lite/portfolio), Nerurkar Lab, Columbia University, May 2024 - Present
+- [Mechanobiology of early embryonic brain development](), Nerurkar Lab, Columbia University, May 2024 - Present
 - [International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC), X/formerly twitter, July 2023 - Present
 - [Mechanics of epithelial layers subjected to controlled pressure and tension](https://upcommons.upc.edu/handle/2117/401551), Trepat Lab, IBEC Barcelona, Aug 2017– May 2024
-- [Computational tool for analysing nuclear to cytoplasmic transport](/lite/portfolio), Roca-Cusachs  Lab, IBEC Barcelona, Aug 2019 - Mar 2021
-- [Analysis of force loading rates associated with cell mechanosensing](/lite/portfolio), Roca-Cusachs Lab, IBEC Barcelona, Jun 2018 - May 2019
-- [Developing constitutive model of Fiber Reinforced Elastomers](/lite/portfolio), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Design and fabrication of miniature shear device for cell mechanics](/lite/portfolio), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Developing a lizard bite force sensor](/lite/portfolio), Gundiah Lab, IISc Bengaluru, Jan 2017 - Mar 2017
-- [Finite element analysis of coffee white stem borer mandible](/lite/portfolio), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Design and Fabrication of a Hirda Cracking Machine](/lite/portfolio), Padole Lab, VNIT Nagpur, May 2013 – Apr 2014
+- [Computational tool for analysing nuclear to cytoplasmic transport](), Roca-Cusachs  Lab, IBEC Barcelona, Aug 2019 - Mar 2021
+- [Analysis of force loading rates associated with cell mechanosensing](), Roca-Cusachs Lab, IBEC Barcelona, Jun 2018 - May 2019
+- [Developing constitutive model of Fiber Reinforced Elastomers](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
+- [Design and fabrication of miniature shear device for cell mechanics](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
+- [Developing a lizard bite force sensor](), Gundiah Lab, IISc Bengaluru, Jan 2017 - Mar 2017
+- [Finite element analysis of coffee white stem borer mandible](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
+- [Design and Fabrication of a Hirda Cracking Machine](), Padole Lab, VNIT Nagpur, May 2013 – Apr 2014
 
 ### Artistic
-- [Monument to failure](/lite/portfolio), Barcelona, May 2024
-- [A=A, B=B](/lite/portfolio), Antoni Tàpies Foundation, Barcelona, Mar 2024
-- [Cookbook](/lite/portfolio), Jun 2023
-- [Organic Origami](lite/_posts/2023-02-23-biennal.md), CCCB, Barcelona, Feb 2023
-- [People's friendship monument](/lite/portfolio), Barcelona, Jan 2022
-- [Misplaced quotes](/lite/portfolio), Barcelona, July 2021
+- [Monument to failure](), Barcelona, May 2024
+- [A=A, B=B](), Antoni Tàpies Foundation, Barcelona, Mar 2024
+- [Cookbook](), Jun 2023
+- [Organic Origami](), CCCB, Barcelona, Feb 2023
+- [People's friendship monument](), Barcelona, Jan 2022
+- [Misplaced quotes](), Barcelona, July 2021
 
 ## Publications
 
