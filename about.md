@@ -9,7 +9,8 @@ permalink: /about/
 - ~~change size~~
 - ~~add blog~~
 - ~~add news~~
-- add gallery
+- add media
+- add my photos
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
 - ~~add portfolio~~
