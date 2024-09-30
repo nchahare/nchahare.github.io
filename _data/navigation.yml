@@ -12,3 +12,6 @@
 
 - name: /cv
   link: /lite/cv/
+
+- name: /cookbook
+  link: /lite/cookbook/

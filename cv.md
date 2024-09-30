@@ -3,6 +3,7 @@ layout: default
 title: Nimesh Chahare's CV
 permalink: /cv/
 ---
+
 ## Contact
 
 Come say HI! to me on internet.
@@ -124,7 +125,13 @@ Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machin
 - Built a machine to separate seed from the fruit called _Hirda_, by crushing the fruit between two rollers. Use of machine led to lower processing time, higher output and minimal manual labour.
 
 
-## 📓 Teaching experience
+## 📓 Mentoring experience
+
+Mentoring Kayla Williamson, undergraduate student at Columbia Biomedical engineering, for designing experimental setups enabling long term imaging of early chick embryo, 2024
+
+Mentored Pau Pujol, a summer student, with Thomas Wilson, in developing algorithms to segment 3D microscopy data, 2024
+
+Mentored Thomas Wilson, PhD student with Prof. Trepat in developing microfluidic device for light sheet microscopy, 2021-2024
 
 Mentored Gavin McQuarrie, student from University of Glasgow, jointly with Anabel-lise Le Roux to calibrate and develop stretch system, 2021
 
@@ -199,8 +206,10 @@ Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Mic
 
 ### Responsibilities 
 
-- Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab.
-- Member of PhD committee at IBEC.
+- Active in organizing committee at Columbia Postdoctoral Workers, UAW Local 4100. 2024-Present 
+- Convenor of International Epithelial Mechanics Fan Club. 2023-Present
+- Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab. 2019-2024
+- Member of PhD committee at IBEC. 2018-2019
 
 ## 💬 Languages
 
