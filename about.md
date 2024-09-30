@@ -9,7 +9,8 @@ permalink: /about/
 - ~~change size~~
 - ~~add blog~~
 - ~~add news~~
-- add media
+- ~~add media~~
+   - can't set order of the images
 - add my photos
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
@@ -19,9 +20,34 @@ permalink: /about/
     - ~~projects~~
     - ~~art projects~~
     - need to add proper links
+    - rename projects with the year
 - fix home
     - need to add proper links
     - ~~add colophon~~
     - ~~add whats up with us~~
 - ~~add cv section~~
     - add pdf corner
+
+
+## info to update in future
+
+- gallery images go to `assets\gal`
+- normal images go to `assets\img`
+- pdf go to `assets\pdf`
+- recipes go to `_recipes`
+- blogs go to `_posts`
+- projects go to `_projects`
+- news go to `_news`
+
+- whenever update the webpage, add the date in the `_layouts/default.html`
+
+- colophon can be edited in the `_layouts/home.html`; also the order of news and blogs
+
+
+- keep the titles of everything short
+
+- css changes should be minimal
+
+- avoid javascript
+
+- 

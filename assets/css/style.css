@@ -40,7 +40,7 @@ nav a.current {
 .image-gallery {
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   justify-content: center;
   padding: 4px;
   gap: 10px;
