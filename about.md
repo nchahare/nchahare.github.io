@@ -27,6 +27,11 @@ permalink: /about/
     - ~~add whats up with us~~
 - ~~add cv section~~
     - add pdf corner
+- collections of images
+    - origami
+    - photography
+    - activity
+    - illustrations
 
 
 ## info to update in future
