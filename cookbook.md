@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Freshed, Canned, and Frozen
+title: Fresh, Canned, and Frozen
 description: Nimesh's cookbook
 permalink: /cookbook/
 ---
