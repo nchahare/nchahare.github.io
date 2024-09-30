@@ -8,8 +8,6 @@ title: Nimesh Chahare
 
 Hello! My name is [Nimesh Chahare](). Welcome to my corner of the internet!
 
-This is where I share things I do and think about.
-
 I'm a scientist, engineer, amateur artist, and much more. <br>
 Check my [portfolio]()/[CV]().
 
@@ -18,8 +16,7 @@ My research focuses on mechanics in formation of early embryonic brain.
 
 My background is in mechanical engineering and material science. Living tissues as a material fascinate me the most. My PhD at [IBEC Barcelona](https://ibecbarcelona.eu/integrative) was on understanding the mechanics of epithelial tissues and exploring novel ways to engineer them. Interested? Read my [thesis](https://upcommons.upc.edu/handle/2117/401551).
 
-On side, I'm the convenor of the [International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC). It's a small community I started for those who share my interest.<br>
-[Join us!](https://twitter.com/intent/user?screen_name=EpiMechFC)
+On side, I'm the convenor of the [International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC). It's a small community I started for those who share my interest. [Join us!](https://twitter.com/intent/user?screen_name=EpiMechFC)
 
 I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city.<br>
 I share some of these on [my blog]().<br>
