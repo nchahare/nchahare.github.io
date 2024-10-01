@@ -11,7 +11,7 @@ permalink: /about/
 - ~~add news~~
 - ~~add media~~
    - can't set order of the images
-- add my photos
+- ~~add my photos~~
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
 - ~~add portfolio~~
