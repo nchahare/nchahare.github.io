@@ -20,24 +20,80 @@ Combining mechanical engineering and biology, my research explores how physical 
 ## Projects
 
 ### Scientific
-- [Mechanobiology of early embryonic brain development](), Nerurkar Lab, Columbia University, May 2024 - Present
-- [International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC), X/formerly twitter, July 2023 - Present
-- [Mechanics of epithelial layers subjected to controlled pressure and tension](https://upcommons.upc.edu/handle/2117/401551), Trepat Lab, IBEC Barcelona, Aug 2017– May 2024
-- [Computational tool for analysing nuclear to cytoplasmic transport](), Roca-Cusachs  Lab, IBEC Barcelona, Aug 2019 - Mar 2021
-- [Analysis of force loading rates associated with cell mechanosensing](), Roca-Cusachs Lab, IBEC Barcelona, Jun 2018 - May 2019
-- [Developing constitutive model of Fiber Reinforced Elastomers](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Design and fabrication of miniature shear device for cell mechanics](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Developing a lizard bite force sensor](), Gundiah Lab, IISc Bengaluru, Jan 2017 - Mar 2017
-- [Finite element analysis of coffee white stem borer mandible](), Gundiah Lab, IISc Bengaluru, Aug 2014–Jun 2016
-- [Design and Fabrication of a Hirda Cracking Machine](), Padole Lab, VNIT Nagpur, May 2013 – Apr 2014
+
+<table>
+  <tr>
+    <td>May 2024 - Present</td>
+    <td markdown="span">[Mechanobiology of early embryonic brain development](), Nerurkar Lab, Columbia University</td>
+  </tr>
+  <tr>
+    <td>Jul 2023 - Present</td>
+    <td markdown="span">[International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC), X/formerly twitter</td>
+  </tr>
+  <tr>
+    <td>Aug 2017 – May 2024</td>
+    <td markdown="span">[Mechanics of epithelial layers subjected to controlled pressure and tension](https://upcommons.upc.edu/handle/2117/401551), Trepat Lab, IBEC Barcelona</td>
+  </tr>
+  <tr>
+    <td>Aug 2019 - Mar 2021</td>
+    <td markdown="span">[Computational tool for analysing nuclear to cytoplasmic transport](), Roca-Cusachs  Lab, IBEC Barcelona</td>
+  </tr>
+  <tr>
+    <td>Jun 2018 - May 2019</td>
+    <td markdown="span">[Analysis of force loading rates associated with cell mechanosensing](), Roca-Cusachs Lab, IBEC Barcelona</td>
+  </tr>
+  <tr>
+    <td>Aug 2014 – Jun 2016</td>
+    <td markdown="span">[Developing constitutive model of Fiber Reinforced Elastomers](), Gundiah Lab, IISc Bengaluru</td>
+  </tr>
+  <tr>
+    <td>Aug 2014 – Jun 2016</td>
+    <td markdown="span">[Design and fabrication of miniature shear device for cell mechanics](), Gundiah Lab, IISc Bengaluru</td>
+  </tr>
+  <tr>
+    <td>Jan 2017 -<br> Mar 2017</td>
+    <td markdown="span">[Developing a lizard bite force sensor](), Gundiah Lab, IISc Bengaluru</td>
+  </tr>
+  <tr>
+    <td>Aug 2014 – Jun 2016</td>
+    <td markdown="span">[Finite element analysis of coffee white stem borer mandible](), Gundiah Lab, IISc Bengaluru</td>
+  </tr>
+  <tr>
+    <td>May 2013 – Apr 2014</td>
+    <td markdown="span">[Design and Fabrication of a Hirda Cracking Machine](), Padole Lab, VNIT Nagpur</td>
+  </tr>
+</table>
+
 
 ### Artistic
-- [Monument to failure](), Barcelona, May 2024
-- [A=A, B=B](), Antoni Tàpies Foundation, Barcelona, Mar 2024
-- [Cookbook](), Jun 2023
-- [Organic Origami](), CCCB, Barcelona, Feb 2023
-- [People's friendship monument](), Barcelona, Jan 2022
-- [Misplaced quotes](), Barcelona, July 2021
+
+<table>
+  <tr>
+    <td>May 2024</td>
+    <td> <a href="url">Monument to failure</a>, Barcelona </td>
+  </tr>
+  <tr>
+    <td>Mar 2024</td>
+    <td><a href="url">A=A, B=B, Antoni Tàpies Foundation</a>, Barcelona</td>
+  </tr>
+  <tr>
+    <td>Jun 2023</td>
+    <td><a href="url">Fresh, Canned, and Frozen: Cookbook</a>, Barcelona</td>
+  </tr>
+  <tr>
+    <td>Feb 2023</td>
+    <td><a href="url">Organic Origami, CCCB</a>, Barcelona</td>
+  </tr>
+  <tr>
+    <td>Jan 2022</td>
+    <td><a href="url">People's friendship monument</a>, Barcelona</td>
+  </tr>
+  <tr>
+    <td>Jul 2021</td>
+    <td><a href="url">Misplaced quotes</a>, Barcelona</td>
+  </tr>
+</table>
+
 
 ## Publications
 
@@ -72,4 +128,6 @@ Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. 
 Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
 
 Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
+
+
 

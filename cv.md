@@ -11,8 +11,6 @@ permalink: /cv/
 - Mechanics
     - Continuum mechanics, Material testing, and Biophysics
 
-
-
 ## Contact
 
 Come say HI! to me on internet.

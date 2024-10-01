@@ -20,7 +20,7 @@ permalink: /about/
     - ~~projects~~
     - ~~art projects~~
     - need to add proper links
-    - rename projects with the year
+    - ~~rename projects with the year~~
 - fix home
     - need to add proper links
     - ~~add colophon~~
@@ -58,4 +58,10 @@ permalink: /about/
 
 - avoid javascript
 
-- 
+- to add entries to projects use following template
+```
+  <tr>
+    <td></td>
+    <td markdown="span"></td>
+  </tr>
+```
