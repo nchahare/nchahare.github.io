@@ -4,14 +4,17 @@ title: Journal of experimental Nimesh
 description: World's leading non-peer reviewed journal about Nimesh
 ---
 
-
-{%- if site.posts.size > 0 -%}
-  <ul>
-    {%- for post in site.posts -%}
-      <p>
-        {%- assign date_format = "%Y-%m-%d" -%}
-        {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </p>
-    {%- endfor -%}
-  </ul>
-{%- endif -%}
+<table>
+  {%- assign sorted_posts = site.posts | sort: 'date' | reverse -%}
+  {%- for item in sorted_posts -%}
+    <tr>
+      <td class="date-column">
+        {{ item.date | date: "%Y-%m-%d" }}
+      </td>
+      <td class="empty-column"></td>
+      <td class="content-column">
+        <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+      </td>
+    </tr>
+  {%- endfor -%}
+</table>

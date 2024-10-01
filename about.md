@@ -27,7 +27,7 @@ permalink: /about/
     - ~~add whats up with us~~
 - ~~add cv section~~
     - add pdf corner
-- fix two column tables as done for the news
+- ~~fix two column tables for blog as done for the news~~
 
 
 - collections of images
