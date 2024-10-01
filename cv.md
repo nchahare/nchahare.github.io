@@ -4,6 +4,15 @@ title: Nimesh Chahare's CV
 permalink: /cv/
 ---
 
+## Research Interests
+
+- Biology
+    - Mechanobiology, and Developmental Biology
+- Mechanics
+    - Continuum mechanics, Material testing, and Biophysics
+
+
+
 ## Contact
 
 Come say HI! to me on internet.
