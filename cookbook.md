@@ -6,13 +6,17 @@ permalink: /cookbook/
 ---
 
 
-{%- if site.recipes.size > 0 -%}
-  <ul>
-    {%- for recipe in site.recipes -%}
-      <p>
-        {%- assign date_format = "%Y-%m-%d" -%}
-        {{ recipe.date | date: date_format }} <a href="{{ recipe.url | relative_url }}">{{ recipe.title | escape }}</a>
-      </p>
-    {%- endfor -%}
-  </ul>
-{%- endif -%}
+<table>
+  {%- assign sorted_recipes = site.recipes | sort: 'date' | reverse -%}
+  {%- for item in sorted_recipes -%}
+    <tr>
+      <td class="date-column">
+        <a href="{{ recipe.url | relative_url }}">{{ item.title | escape }}</a>
+      </td>
+      <td class="empty-column"></td>
+      <td class="content-column">
+        {{ item.description | escape }}
+      </td>
+    </tr>
+  {%- endfor -%}
+</table>

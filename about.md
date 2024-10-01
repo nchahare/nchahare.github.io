@@ -8,6 +8,7 @@ permalink: /about/
 - ~~download simple css and just try to see if it works locally~~
 - ~~change size~~
 - ~~add blog~~
+- ~~fixed cookbook, by putting description rather than date.~~
 - ~~add news~~
 - ~~add media~~
    - can't set order of the images
