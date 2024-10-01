@@ -2,6 +2,7 @@
 layout: post
 title: CP curry
 description: Chickpeas pepper curry
+date: 2021-03-05
 ---
 # Chickpeas pepper (CP) curry
 

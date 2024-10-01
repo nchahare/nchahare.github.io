@@ -2,6 +2,7 @@
 layout: post
 title: Butter Chicken
 description: Classical chicken curry recipe
+date: 2021-11-10
 ---
 
 One of the most renowned curries. Fun fact: in India, people almost never cook this at home. It is more popular to eat this in a restaurant. You can always add more butter.

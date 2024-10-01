@@ -2,6 +2,7 @@
 layout: post
 title: arroz a la havana
 description: Rice with a fried egg
+date: 2021-05-04
 ---
 
 My variation on arroz a la cubana. This recipe is something I learned from my flatmate. But I use basmati rice instead of short grain rize

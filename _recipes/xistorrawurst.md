@@ -2,6 +2,7 @@
 layout: post
 title: xistorra wurst
 description:  Curry Wurst variation
+date: 2021-10-05
 ---
 
 One of my favorite culinary adventures was discovering Xistorra Wurst, a delightful fusion of the popular German Currywurst and the flavorful Spanish Xistorra sausage. Combining the spiciness of curry sauce with the smoky, rich taste of Xistorra, this dish opened up a whole new world of flavors for me. It's perfect for a fun, casual meal with friends and family, especially when served with a side of crispy French fries or crusty bread. This creative twist on a classic street food dish is a testament to the endless possibilities that come from combining different culinary traditions.

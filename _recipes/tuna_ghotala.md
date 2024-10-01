@@ -2,6 +2,7 @@
 layout: post
 title: Tuna Ghotala
 description: Egg and tuna curry
+date: 2021-12-18
 ---
 Egg and tuna curry. This one is inspired by an Indian street food from Mumbai and Pune: Anda Ghotala.
 

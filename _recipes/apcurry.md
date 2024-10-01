@@ -2,6 +2,7 @@
 layout: post
 title: AP Curry
 description: Potatoes and spinach curry
+date: 2022-06-01
 ---
 
 Quick recipe combining potatoes and spinach. Ideal for a tortilla wrap or a sandwich.

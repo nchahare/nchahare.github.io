@@ -2,6 +2,7 @@
 layout: post
 title: MM curry
 description: Mutter mushroom curry
+date: 2022-06-15
 ---
 
 Restaurant style curry.

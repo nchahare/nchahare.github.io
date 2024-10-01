@@ -2,6 +2,7 @@
 layout: post
 title: Much Risotto
 description: Mushroom Chicken Risotto
+date: 2021-08-24
 ---
 
 It's mushroom season. So I decided to prepare a nice risotto with chicken and mushrooms.

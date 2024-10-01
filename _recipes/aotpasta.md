@@ -2,6 +2,7 @@
 layout: post
 title: Aglio-Olio-tuna
 description: Tuna-garlic-oil spaghetti
+date: 2022-07-03
 ---
 
 A variation of a famous aglio-olio pasta. I have added tuna, peppers and onions to make sauce thick. Added tons of olive oil to make my favourite pasta recipe. It all can be done within 25min (including cleaning time).  

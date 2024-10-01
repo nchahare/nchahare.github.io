@@ -2,6 +2,7 @@
 layout: post
 title: PC curry
 description: Spinach corn curry
+date: 2023-03-15
 ---
 
 After eating spinach combined with chickpeas, cheese, and potatoes many times, I found myself longing for a new twist on the leafy green vegetable. That's when I stumbled upon the idea of using corn instead. I had seen it in some online recipes and even tried it at a few restaurants. The addition of sweet corn to the dish seemed like the perfect way to mix things up and add some variety to my usual meals. That's how I discovered spinach corn curry, a flavorful and healthy dish that quickly became a favorite in my household.

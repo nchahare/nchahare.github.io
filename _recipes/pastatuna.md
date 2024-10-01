@@ -2,6 +2,7 @@
 layout: post
 title: pasta atunesca
 description: Easy canned tuna fusilli pasta
+date: 2021-09-06
 ---
 # Easy canned tuna pasta
 Canned tuna, canned tomatoes, and pasta. Simple and good.

@@ -3,6 +3,35 @@ layout: default
 title: need to do
 permalink: /about/
 ---
+- ~~cookbook links dont work.~~``~~
+
+- we need blog posts.
+  - important ones
+    - defense experience
+    - looking for job experience
+    - moving countries with partner 
+    - monument of failure
+    - having poster in the museum
+    - moving to usa and visa process
+    - india trip
+    - one year anniversary for epimechfc
+    - experience of film photography
+    - ccd camera, falling prey to a hipster fad
+  - casual
+    - make a custom command for sudo apt update/upgrade
+    - syncthing
+    - visiting BSC
+    - zotero workflow
+    - corre bravas
+    - de googling
+    - nextcloud
+    - mixcloud
+    - obsidian workflow
+    - nfc card blog
+    - book reviews maybe
+
+
+
 
 - ~~get css font change~~
 - ~~download simple css and just try to see if it works locally~~

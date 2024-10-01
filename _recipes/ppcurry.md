@@ -2,6 +2,7 @@
 layout: post
 title: Palak Paneer
 description: Indian cottage cheese and spinach curry
+date: 2021-05-23
 ---
 
 Famous vegetarian curry. Some say that paneer, the cottage cheese from India, is chicken for vegetarians. All of the chicken recipes can be made with paneer instead of chicken. I don't agree with this. But it is one of my favorite curries.

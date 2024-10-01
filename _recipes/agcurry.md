@@ -2,6 +2,7 @@
 layout: post
 title: AG Curry
 description: Potatoes and cauliflower curry
+date: 2022-02-16
 ---
 
 Quick recipe combining potatoes and cauliflower. Modification of AP curry, where we replace spinach with cauliflower .

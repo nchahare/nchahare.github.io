@@ -2,6 +2,7 @@
 layout: post
 title: poha
 description: Potato and Onion Flattened Rice
+date: 2021-04-10
 ---
 
 # Aloo Kanda Poha Recipe (Potato and Onion Flattened Rice)

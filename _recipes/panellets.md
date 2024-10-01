@@ -2,6 +2,7 @@
 layout: post
 title: Panellets
 description:  Traditional sweets for Castanyada
+date: 2022-10-14
 ---
 
 Every year, in Catalonia, when Halloween or All Saints' Day approaches, the local bakeries are adorned with these delectable, pine nut-covered sweets. However, if you've ever considered buying them, you may have been taken aback by the sky-high prices, ranging from 50 to 70 euros per kilogram. As a regular, normal poor person, you might find yourself wondering, "How much would it cost to make these at home?" Of course, let's not dwell on the value of your time, which is, of course, quite cheap. Nonetheless, I found it to be a delightful and enjoyable activity to undertake.

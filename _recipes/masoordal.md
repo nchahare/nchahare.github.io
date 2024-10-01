@@ -2,6 +2,7 @@
 layout: post
 title: Masoor dal
 description: Spiced red lentils
+date: 2021-08-03
 ---
 # Masoor dal
 I used to cook only boring supermarket canned cooked lentils for my lunch tuppers. One day, while talking to my mother, I realized I could cook much better dals by replacing canned goods with more interesting legumes, such as masoor dal. The only problem for me here is that I hate soaking lentils in advance. But for good Dal, I will do that.

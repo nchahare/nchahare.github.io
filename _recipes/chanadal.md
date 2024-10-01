@@ -2,6 +2,7 @@
 layout: post
 title: chana dal
 description: Split chickpeas recipe
+date: 2021-10-14
 ---
 
 Chana dal has been a beloved dish in my family, and we have it all the time. I always shied away from making it myself because of the need to soak the dal and the traditional pressure cooker method. However, this recipe for chana dal without a pressure cooker has become a game-changer for me. It's easy to follow and doesn't require any fancy equipment, making it accessible for even the most novice of cooks. With a perfect blend of spices and tender, delicious dal, this dish has quickly become a favorite in my household. I love pairing it with rice or roti for a satisfying and comforting meal.

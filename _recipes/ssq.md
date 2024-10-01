@@ -2,6 +2,7 @@
 layout: post
 title: sobrassada quesadilla
 description:  Sobrassada Quesadilla with Queso Tierno
+date: 2022-11-17
 ---
 
 Judith and I often make Sobrassada Quesadillas for dinner, as we both share a love for the rich and flavorful sobrassada. These quesadillas are not only easy to prepare, but they also offer the perfect opportunity to get creative with the fillings. We enjoy experimenting with different ingredients like sautéed onions, bell peppers, or even jalapeños for an extra kick. This versatile and mouthwatering dish never fails to impress our taste buds, making it a fun and satisfying meal for any occasion.

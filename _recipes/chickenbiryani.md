@@ -2,6 +2,7 @@
 layout: post
 title: chicken biryani
 description:  Classical chicken rice dish
+date: 2021-07-13
 ---
 # Chicken Biryani Recipe (6 portions) - No Oven, Stovetop Only
 

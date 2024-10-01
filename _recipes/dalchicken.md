@@ -2,6 +2,7 @@
 layout: post
 title: dal chicken
 description: Dal Chicken Recipe with Chicken Breast and Chana Dal
+date: 2022-02-27
 ---
 
 When I first tried Dal Chicken in a Pakistani restaurant in Barcelona, I had no idea such a delightful dish even existed. The combination of tender chicken breast and protein-packed chana dal, infused with a medley of fragrant spices, truly tantalized my taste buds. This hearty and aromatic meal allowed me to experience the rich culinary culture of Pakistan and opened my eyes to the diverse and unique flavors it has to offer. It's amazing how food can transport us across borders and bring us closer to different cultures!

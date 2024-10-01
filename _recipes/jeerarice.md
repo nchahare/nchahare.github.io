@@ -2,6 +2,7 @@
 layout: post
 title: Jeera rice
 description: Quick jeera rice recipe
+date: 2022-04-08
 ---
 Restaurant-style rice recipe. This is a staple in restaurants. I have a lot of fond memories of eating out every day for lunch when I was working in India. My friends and I would always order aloo jeera, a couple of curries, and jeera rice.
 

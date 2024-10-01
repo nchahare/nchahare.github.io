@@ -2,6 +2,7 @@
 layout: post
 title: big Mojitos
 description: Large batch of mojitos
+date: 2022-09-12
 ---
 Almost every year, my boss invites the entire lab for a mojito pool party. We prepare a large batch of mojitos with 2 liters of rum. It's quite fun; we all pitch in to cut limes and make ice. This year, I made the mojitos with some incredible muddlers.
 
