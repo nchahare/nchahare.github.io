@@ -23,11 +23,11 @@ Combining mechanical engineering and biology, my research explores how physical 
 
 <table>
   <tr>
-    <td>May 2024 - Present</td>
+    <td>May 2024 – Present</td>
     <td markdown="span">[Mechanobiology of early embryonic brain development](), Nerurkar Lab, Columbia University</td>
   </tr>
   <tr>
-    <td>Jul 2023 - Present</td>
+    <td>Jul 2023 – Present</td>
     <td markdown="span">[International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC), X/formerly twitter</td>
   </tr>
   <tr>
@@ -35,11 +35,11 @@ Combining mechanical engineering and biology, my research explores how physical 
     <td markdown="span">[Mechanics of epithelial layers subjected to controlled pressure and tension](https://upcommons.upc.edu/handle/2117/401551), Trepat Lab, IBEC Barcelona</td>
   </tr>
   <tr>
-    <td>Aug 2019 - Mar 2021</td>
+    <td>Aug 2019 – Mar 2021</td>
     <td markdown="span">[Computational tool for analysing nuclear to cytoplasmic transport](), Roca-Cusachs  Lab, IBEC Barcelona</td>
   </tr>
   <tr>
-    <td>Jun 2018 - May 2019</td>
+    <td>Jun 2018 – May 2019</td>
     <td markdown="span">[Analysis of force loading rates associated with cell mechanosensing](), Roca-Cusachs Lab, IBEC Barcelona</td>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ Combining mechanical engineering and biology, my research explores how physical 
     <td markdown="span">[Design and fabrication of miniature shear device for cell mechanics](), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>
-    <td>Jan 2017 -<br> Mar 2017</td>
+    <td>Jan 2017 –<br> Mar 2017</td>
     <td markdown="span">[Developing a lizard bite force sensor](), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>

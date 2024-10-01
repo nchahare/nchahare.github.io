@@ -39,6 +39,9 @@ permalink: /about/
 
 ## info to update in future
 
+- always run `bundle install`
+- then run `bundle exec jekyll serve`
+
 - gallery images go to `assets\gal`
 - normal images go to `assets\img`
 - pdf go to `assets\pdf`
@@ -60,8 +63,10 @@ permalink: /about/
 
 - to add entries to projects use following template
 ```
+<table>
   <tr>
     <td></td>
     <td markdown="span"></td>
   </tr>
+</table>  
 ```
