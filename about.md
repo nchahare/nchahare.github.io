@@ -40,7 +40,9 @@ permalink: /about/
 - ~~fixed cookbook, by putting description rather than date.~~
 - ~~add news~~
 - ~~add media~~
-   - can't set order of the images
+   - ~~can't set order of the images~~
+   - need to make them clickable
+   - add images into nice portfolio
 - ~~add my photos~~
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
