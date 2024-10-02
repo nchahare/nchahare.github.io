@@ -19,6 +19,7 @@ permalink: /about/
     - italy trip
     - experience of film photography
     - ccd camera, falling prey to a hipster fad
+    - new ways of doing website
   - casual
     - make a custom command for sudo apt update/upgrade
     - syncthing
@@ -46,6 +47,7 @@ permalink: /about/
    - ~~need to make them clickable~~
    - ~~add images into nice portfolio~~
    - maybe add nice captions
+   - add newer photos
 - ~~add my photos~~
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~

@@ -4,6 +4,13 @@ title: Nimesh Chahare's CV
 permalink: /cv/
 ---
 
+## Current position
+
+- Postdoctoral Reseach Scientist with Prof. Nandan Nerurkar
+- [Morphogenesis and Developmental Biomechanics Lab (MDBL)](https://nerurkar.bme.columbia.edu/) 
+- Columbia University in the city of New York
+
+
 ## Research Interests
 
 - Biology
