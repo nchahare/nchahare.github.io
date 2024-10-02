@@ -4,7 +4,7 @@ title: Nimesh Chahare, Ph.D.
 description: This is how I look
 permalink: /me/
 images:
-  - /assets/gal/meme2024.jpg
+  - /assets/img/meme2024.jpg
 
 ---
 

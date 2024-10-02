@@ -25,7 +25,7 @@ I had no idea that this simple decision would start an exciting journey. I began
 ## Fan club
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/gal/epimechfc.png" title="logo of the club" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/epimechfc.png" title="logo of the club" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 I even made the cartoon for the profile picture 
