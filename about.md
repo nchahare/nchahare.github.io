@@ -11,10 +11,12 @@ permalink: /about/
     - looking for job experience
     - moving countries with partner 
     - monument of failure
+    - making cover
     - having poster in the museum
     - moving to usa and visa process
     - india trip
     - one year anniversary for epimechfc
+    - italy trip
     - experience of film photography
     - ccd camera, falling prey to a hipster fad
   - casual
@@ -41,8 +43,9 @@ permalink: /about/
 - ~~add news~~
 - ~~add media~~
    - ~~can't set order of the images~~
-   - need to make them clickable
-   - add images into nice portfolio
+   - ~~need to make them clickable~~
+   - ~~add images into nice portfolio~~
+   - maybe add nice captions
 - ~~add my photos~~
 - ~~crucial add layout control for how homepage looks~~
 - ~~fix xml and rss~~
