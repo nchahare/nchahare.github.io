@@ -37,8 +37,16 @@ lang: en
 locale: en-US
 
 # RSS feeds
+rss_icon: true
 feed:
   posts_limit: 20
+
+
+github_username: nchahare # your GitHub user name
+gitlab_username: # your GitLab user name
+twitter_username: onenimesa # your Twitter handle
+linkedin_username: nchahare # your LinkedIn user name
+scholar_userid: g0yOthAAAAAJ&hl=en&oi=ao #chaharenimesh@gmail.com # your Google Scholar ID
 
 # collections for news and recipes
 collections:

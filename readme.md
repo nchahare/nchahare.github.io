@@ -1,8 +1,47 @@
 ---
 layout: default
-title: need to do
+title: important information
 permalink: /about/
 ---
+
+# Welcome!
+
+## info to update in future
+
+- always run `bundle install`
+- then run `bundle exec jekyll serve`
+
+- gallery images go to `assets\gal`
+- normal images go to `assets\img`
+- pdf go to `assets\pdf`
+- recipes go to `_recipes`
+- blogs go to `_posts`
+- projects go to `_projects`
+- news go to `_news`
+
+- whenever update the webpage, add the date in the `_layouts/default.html`
+
+- colophon can be edited in the `_layouts/home.html`; also the order of news and blogs
+
+
+- keep the titles of everything short
+
+- css changes should be minimal
+
+- avoid javascript
+
+- to add entries to projects use following template
+```
+<table>
+  <tr>
+    <td></td>
+    <td markdown="span"></td>
+  </tr>
+</table>  
+```
+
+## need to do
+
 - ~~cookbook links dont work.~~``~~
 
 - we need blog posts.
@@ -56,10 +95,10 @@ permalink: /about/
     - ~~publications~~
     - ~~projects~~
     - ~~art projects~~
-    - need to add proper links
+    - ~~need to add proper links~~
     - ~~rename projects with the year~~
-- fix home
-    - need to add proper links
+- ~~fix home~~
+    - ~~need to add proper links~~
     - ~~add colophon~~
     - ~~add whats up with us~~
 - ~~add cv section~~
@@ -72,38 +111,3 @@ permalink: /about/
     - photography
     - activity
     - illustrations
-
-
-## info to update in future
-
-- always run `bundle install`
-- then run `bundle exec jekyll serve`
-
-- gallery images go to `assets\gal`
-- normal images go to `assets\img`
-- pdf go to `assets\pdf`
-- recipes go to `_recipes`
-- blogs go to `_posts`
-- projects go to `_projects`
-- news go to `_news`
-
-- whenever update the webpage, add the date in the `_layouts/default.html`
-
-- colophon can be edited in the `_layouts/home.html`; also the order of news and blogs
-
-
-- keep the titles of everything short
-
-- css changes should be minimal
-
-- avoid javascript
-
-- to add entries to projects use following template
-```
-<table>
-  <tr>
-    <td></td>
-    <td markdown="span"></td>
-  </tr>
-</table>  
-```
