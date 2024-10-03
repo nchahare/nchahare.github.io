@@ -1,17 +1,17 @@
 - name: /nimesh
-  link: /lite/
+  link: /
 
 - name: /journal
-  link: /lite/journal/
+  link: /journal/
 
 - name: /portfolio
-  link: /lite/portfolio/
+  link: /portfolio/
 
 - name: /media
-  link: /lite/media/
+  link: /media/
 
 - name: /cv
-  link: /lite/cv/
+  link: /cv/
 
 - name: /cookbook
-  link: /lite/cookbook/
+  link: /cookbook/

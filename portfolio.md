@@ -24,7 +24,7 @@ Combining mechanical engineering and biology, my research explores how physical 
 <table>
   <tr>
     <td>May 2024 – Present</td>
-    <td markdown="span">[Mechanobiology of early embryonic brain development](), Nerurkar Lab, Columbia University</td>
+    <td markdown="span">[Mechanobiology of early embryonic brain development](https://nerurkar.bme.columbia.edu/), Nerurkar Lab, Columbia University</td>
   </tr>
   <tr>
     <td>Jul 2023 – Present</td>
@@ -78,7 +78,7 @@ Combining mechanical engineering and biology, my research explores how physical 
   </tr>
   <tr>
     <td>Jun 2023</td>
-    <td><a href="url">Fresh, Canned, and Frozen: Cookbook</a>, Barcelona</td>
+    <td><a href="\cookbook">Fresh, Canned, and Frozen: Cookbook</a>, Barcelona</td>
   </tr>
   <tr>
     <td>Feb 2023</td>
