@@ -36,45 +36,44 @@ Combining mechanical engineering and biology, my research explores how physical 
   </tr>
   <tr>
     <td>Aug 2019 – Mar 2021</td>
-    <td markdown="span">[Computational tool for analysing nuclear to cytoplasmic transport](), Roca-Cusachs  Lab, IBEC Barcelona</td>
+    <td markdown="span">[Computational tool for analysing nuclear to cytoplasmic transport](/2022/06/09/flip), Roca-Cusachs  Lab, IBEC Barcelona</td>
   </tr>
   <tr>
     <td>Jun 2018 – May 2019</td>
-    <td markdown="span">[Analysis of force loading rates associated with cell mechanosensing](), Roca-Cusachs Lab, IBEC Barcelona</td>
+    <td markdown="span">[Analysis of force loading rates associated with cell mechanosensing](/2021/07/21/forcerates), Roca-Cusachs Lab, IBEC Barcelona</td>
   </tr>
   <tr>
     <td>Aug 2014 – Jun 2016</td>
-    <td markdown="span">[Developing constitutive model of Fiber Reinforced Elastomers](), Gundiah Lab, IISc Bengaluru</td>
+    <td markdown="span">[Developing constitutive model of Fiber Reinforced Elastomers](/2021/12/06/fre), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>
     <td>Aug 2014 – Jun 2016</td>
-    <td markdown="span">[Design and fabrication of miniature shear device for cell mechanics](), Gundiah Lab, IISc Bengaluru</td>
+    <td markdown="span">[Design and fabrication of miniature shear device for cell mechanics](/2016/07/18/me), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>
     <td>Jan 2017 –<br> Mar 2017</td>
-    <td markdown="span">[Developing a lizard bite force sensor](), Gundiah Lab, IISc Bengaluru</td>
+    <td markdown="span">[Developing a lizard bite force sensor](/portfolio), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>
     <td>Aug 2014 – Jun 2016</td>
-    <td markdown="span">[Finite element analysis of coffee white stem borer mandible](), Gundiah Lab, IISc Bengaluru</td>
+    <td markdown="span">[Finite element analysis of coffee white stem borer mandible](/2020/12/16/mandiblefea), Gundiah Lab, IISc Bengaluru</td>
   </tr>
   <tr>
     <td>May 2013 – Apr 2014</td>
-    <td markdown="span">[Design and Fabrication of a Hirda Cracking Machine](), Padole Lab, VNIT Nagpur</td>
+    <td markdown="span">[Design and Fabrication of a Hirda Cracking Machine](/2014/05/12/btech), Padole Lab, VNIT Nagpur</td>
   </tr>
 </table>
-
 
 ### Artistic
 
 <table>
   <tr>
     <td>May 2024</td>
-    <td> <a href="url">Monument to failure</a>, Barcelona </td>
+    <td> <a href="https://x.com/XavierTrepat/status/1785599958265061637">Monument to failure</a>, Barcelona </td>
   </tr>
   <tr>
     <td>Mar 2024</td>
-    <td><a href="url">A=A, B=B, Antoni Tàpies Foundation</a>, Barcelona</td>
+    <td><a href="https://museutapies.org/exposicio/aa-bb/">A=A, B=B, Antoni Tàpies Foundation</a>, Barcelona</td>
   </tr>
   <tr>
     <td>Jun 2023</td>
@@ -82,15 +81,15 @@ Combining mechanical engineering and biology, my research explores how physical 
   </tr>
   <tr>
     <td>Feb 2023</td>
-    <td><a href="url">Organic Origami, CCCB</a>, Barcelona</td>
+    <td><a href="\2023\02\23\biennal">Organic Origami, CCCB</a>, Barcelona</td>
   </tr>
   <tr>
     <td>Jan 2022</td>
-    <td><a href="url">People's friendship monument</a>, Barcelona</td>
+    <td><a href="\2022\06\21\peoplesfriendship">People's friendship monument</a>, Barcelona</td>
   </tr>
   <tr>
     <td>Jul 2021</td>
-    <td><a href="url">Misplaced quotes</a>, Barcelona</td>
+    <td><a href="\2022\06\13\misplacedquotes">Misplaced quotes</a>, Barcelona</td>
   </tr>
 </table>
 
