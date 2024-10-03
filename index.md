@@ -4,6 +4,8 @@
 
 layout: home
 title: Nimesh Chahare
+seo_title: Nimesh Chahare, PhD
+seo_description: Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 ---
 
 Hello! My name is [Nimesh Chahare](/me). Welcome to my corner of the internet!

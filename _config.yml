@@ -20,10 +20,11 @@
 
 title: Nimesh Chahare
 description: >- # this means to ignore newlines until "baseurl:"
-  Nimesh's personal webpage
+  Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://nchahare.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-logo: ✏️
+
+
 
 # Build settings
 plugins:
@@ -32,7 +33,7 @@ plugins:
 
 # SEO Stuff
 author: Nimesh Chahare
-summary: This is Nimesh's small corner of the internet
+summary: Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 lang: en
 locale: en-US
 
@@ -43,7 +44,6 @@ feed:
 
 
 github_username: nchahare # your GitHub user name
-gitlab_username: # your GitLab user name
 twitter_username: onenimesa # your Twitter handle
 linkedin_username: nchahare # your LinkedIn user name
 scholar_userid: g0yOthAAAAAJ&hl=en&oi=ao #chaharenimesh@gmail.com # your Google Scholar ID
