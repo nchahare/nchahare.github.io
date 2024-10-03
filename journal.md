@@ -2,6 +2,7 @@
 layout: default
 title: Journal of experimental Nimesh
 description: World's leading non-peer reviewed journal about Nimesh
+permalink: /journal/
 ---
 
 <table>

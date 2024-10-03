@@ -2,6 +2,7 @@
 layout: default
 title: media
 description: The closest thing to my Instagram you'll ever encounter
+permalink: /media/
 images:
   - /assets/img/meme2024.jpg
   - /assets/img/organicorigami.jpg
