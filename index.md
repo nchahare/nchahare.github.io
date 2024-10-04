@@ -8,8 +8,8 @@ seo_title: Nimesh Chahare, PhD
 seo_description: Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 ---
 
-Hello! My name is [Nimesh Chahare](/me). I'm a scientist, engineer, amateur artist, and much more. <br>
-Check my [portfolio](/portfolio)/[CV](/cv).
+Hello! My name is [Nimesh Chahare](/me).<br>
+I'm a scientist, engineer, amateur artist, and much more. Check my [portfolio](/portfolio)/[CV](/cv).
 
 I'm working as a postdoctoral Scientist at [Columbia University](https://nerurkar.bme.columbia.edu/) in New York City.<br>
 My research focuses on mechanics in formation of early embryonic brain.
@@ -18,7 +18,7 @@ My background is in mechanical engineering and material science. Living tissues 
 
 On side, I'm the convenor of the [International Epithelial Mechanics Fan Club](https://twitter.com/EpiMechFC). It's a small community I started for those who share my interest. [Join us!](https://twitter.com/intent/user?screen_name=EpiMechFC)
 
-Welcome to my corner of the internet! I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city.<br>
+Welcome to my corner of the internet!<br> I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city.<br>
 I share some of these on [my blog](/journal).<br>
 
 ## on the web
