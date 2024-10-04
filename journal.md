@@ -6,7 +6,7 @@ permalink: /journal/
 ---
 
 ```
-The newer content is witheld
+The newer content is withheld. Send me cash if you want to read them.
 ```
 
 <table>

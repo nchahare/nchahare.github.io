@@ -1,9 +1,3 @@
----
-layout: default
-title: important information
-permalink: /about/
----
-
 # Welcome!
 
 ## info to update in future
@@ -44,7 +38,7 @@ permalink: /about/
 
 - ~~cookbook links dont work.~~``~~
 
-- we need blog posts.
+- hidden blog posts.
   - important ones
     - defense experience
     - looking for job experience
