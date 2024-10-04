@@ -19,10 +19,9 @@
 
 
 - keep the titles of everything short
-
 - css changes should be minimal
 
-- avoid javascript
+- avoid javascript, we have one for zooming, but delete it
 
 - to add entries to projects use following template
 ```
@@ -36,7 +35,12 @@
 
 ## need to do
 
-- ~~cookbook links dont work.~~``~~
+- [ ] recipes and blog redirect needs to be fixed
+- [ ] add now now
+- [ ] replace me with about page
+- [ ] add captions next to figure, compress figures to 480px and jpg
+- [ ] cv in the pdf
+- [ ] delete the javascript for zooming and light box
 
 - hidden blog posts.
   - important ones
@@ -64,44 +68,4 @@
     - mixcloud
     - obsidian workflow
     - nfc card blog
-    - book reviews maybe
-
-
-
-
-- ~~get css font change~~
-- ~~download simple css and just try to see if it works locally~~
-- ~~change size~~
-- ~~add blog~~
-- ~~fixed cookbook, by putting description rather than date.~~
-- ~~add news~~
-- ~~add media~~
-   - ~~can't set order of the images~~
-   - ~~need to make them clickable~~
-   - ~~add images into nice portfolio~~
-   - maybe add nice captions
-   - add newer photos
-- ~~add my photos~~
-- ~~crucial add layout control for how homepage looks~~
-- ~~fix xml and rss~~
-- ~~add portfolio~~
-- ~~fix portfolio~~
-    - ~~publications~~
-    - ~~projects~~
-    - ~~art projects~~
-    - ~~need to add proper links~~
-    - ~~rename projects with the year~~
-- ~~fix home~~
-    - ~~need to add proper links~~
-    - ~~add colophon~~
-    - ~~add whats up with us~~
-- ~~add cv section~~
-    - add pdf corner
-- ~~fix two column tables for blog as done for the news~~
-
-
-- collections of images
-    - origami
-    - photography
-    - activity
-    - illustrations
+    - book reviews 
