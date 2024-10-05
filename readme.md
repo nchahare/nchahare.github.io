@@ -36,8 +36,8 @@
 ## need to do
 
 - [ ] recipes and blog redirect needs to be fixed
-- [ ] add now now
-- [ ] replace me with about page
+- [x] add now now
+- [x] replace me with about page
 - [ ] add captions next to figure, compress figures to 480px and jpg
 - [ ] cv in the pdf
 - [ ] delete the javascript for zooming and light box
