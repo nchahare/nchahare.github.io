@@ -3,7 +3,9 @@ layout: default
 title: Nimesh Chahare's CV
 permalink: /cv/
 ---
-
+<div style="text-align: right;">
+  <a href="/assets/pdf/cv.pdf">Download .pdf</a>
+</div>
 ## Current position
 
 - Postdoctoral Reseach Scientist with Prof. Nandan Nerurkar

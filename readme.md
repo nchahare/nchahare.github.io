@@ -39,12 +39,13 @@
 - [x] recipes and blog redirect needs to be fixed
 - [x] add now now
 - [x] replace me with about page
-- [ ] add captions next to figure, 
+- [ ] add captions next to figure
+- [ ] add move pdfs to remote servers
 - [x] compress figures to 480px and jpg
-- [ ] cv in the pdf
+- [x] cv in the pdf
 - [x] delete the javascript for zooming and light box
 
-- hidden blog posts.
+## hidden blog posts.
   - important ones
     - defense experience
     - looking for job experience
