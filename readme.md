@@ -42,7 +42,7 @@
 - [ ] add captions next to figure, 
 - [x] compress figures to 480px and jpg
 - [ ] cv in the pdf
-- [ ] delete the javascript for zooming and light box
+- [x] delete the javascript for zooming and light box
 
 - hidden blog posts.
   - important ones
