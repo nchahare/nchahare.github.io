@@ -25,7 +25,7 @@ CAD Sketcher, a fantastic tool that brings precise CAD-like functionalities into
 
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/cadsketcher.png" title=" " class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/cadsketcher.jpg" title=" " class="img-fluid rounded z-depth-1" %}
 </div>
 
 ## Installing CAD sketcher

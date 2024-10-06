@@ -8,13 +8,13 @@ images:
   - /assets/img/organicorigami.jpg
   - /assets/img/bcc1.jpg
   - /assets/img/phddefense.jpg
-  - /assets/img/thesiscover.png
+  - /assets/img/thesiscover.jpg
   - /assets/img/1702570033758.jpg
   - /assets/img/GBFPAUbX0AAyBXM.jpg
-  - /assets/img/pfm1.png
-  - /assets/img/pfm2.png
-  - /assets/img/image1117_dresden.png
-  - /assets/img/misti.png
+  - /assets/img/pfm1.jpg
+  - /assets/img/pfm2.jpg
+  - /assets/img/image1117_dresden.jpg
+  - /assets/img/misti.jpg
   - /assets/img/firenze.jpg
   - /assets/img/v1h64o.jpg
   - /assets/img/catcat.jpg

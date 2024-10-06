@@ -50,7 +50,7 @@ By default, Zotero stores both data and files locally on your computer. However,
    - In your Zotero library, click the circular green arrow to start the sync process.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/Pasted image 20231029124616.png" title=" " class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/Pasted image 20231029124616.jpg" title=" " class="img-fluid rounded z-depth-1" %}
 </div>
 
 ## Syncing Your Library to a New Computer
@@ -108,14 +108,14 @@ Follow these steps to set up Zotfile for file syncing:
    - Choose a base directory in your OneDrive (or other cloud storage) where Zotero will store your PDFs. Create a folder and name it "Zoterodb." For example.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/Pasted image 20231029125457.png" title=" " class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/Pasted image 20231029125457.jpg" title=" " class="img-fluid rounded z-depth-1" %}
 </div>
 
 4. **Custom Location**:
    - In "Tools," go to "ZotFile Preferences" and choose the "Zoterodb" folder as the custom location.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/Pasted image 20231029125557.png" title=" " class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/Pasted image 20231029125557.jpg" title=" " class="img-fluid rounded z-depth-1" %}
 </div>
 
 With Zotfile, your PDFs will be automatically renamed and moved to the designated folder in your cloud storage whenever you add a new article. 

@@ -5,6 +5,7 @@
 - always run `bundle install`
 - then run `bundle exec jekyll serve`
 
+- make sure images are under 480px and they are always `.png`
 - gallery images go to `assets\gal`
 - normal images go to `assets\img`
 - pdf go to `assets\pdf`
@@ -38,7 +39,8 @@
 - [ ] recipes and blog redirect needs to be fixed
 - [x] add now now
 - [x] replace me with about page
-- [ ] add captions next to figure, compress figures to 480px and jpg
+- [ ] add captions next to figure, 
+- [x] compress figures to 480px and jpg
 - [ ] cv in the pdf
 - [ ] delete the javascript for zooming and light box
 

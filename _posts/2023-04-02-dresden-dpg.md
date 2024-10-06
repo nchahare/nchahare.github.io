@@ -15,7 +15,7 @@ A few months ago, I signed up for this conference with a solid plan in mind. By 
 But, as you can guess, none of this really happened.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/image1105_dresden.png" title="Image of dresden" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/image1105_dresden.jpg" title="Image of dresden" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 
@@ -74,7 +74,7 @@ The conference was so large that it relied on volunteers, many of whom were stud
 The talks were great, but I was often distracted due to thesis edits. I got the "professor experience," editing text on my laptop while a PhD student presented. I was also working on my presentation, which I hadn't rehearsed. In the end, I delivered a good presentation and answered most of the questions. My thesis was nowhere near submission.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/image1117_dresden.png" title="Image of me presenting" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/image1117_dresden.jpg" title="Image of me presenting" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 
@@ -89,7 +89,7 @@ I attended all the cell mechanics and tissue mechanics sections, which were pret
 On Wednesday, the weather improved. At least it was not freezing anymore. We had all the talks in the morning, so we could do some tourism after lunch. We had amazing currywurst in front of the Culture Palace. We were eating while facing the large mural of the workers' movement in Germany.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/image1148_dresden.png" title="Image of workers mural" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/image1148_dresden.jpg" title="Image of workers mural" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 

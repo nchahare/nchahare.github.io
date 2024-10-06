@@ -23,7 +23,7 @@ toc:
 ## Introduction
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/pfm1.png" title="peoples" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/pfm1.jpg" title="peoples" class="img-fluid rounded z-depth-1" %}
 Me with people of the lab making the sculpture</div>
 <br>
 
@@ -72,6 +72,6 @@ As we continue our scientific pursuits, the People's Friendship Monument will se
 
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/pfm2.png" title="peoples" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/pfm2.jpg" title="peoples" class="img-fluid rounded z-depth-1" %}
 </div>
 

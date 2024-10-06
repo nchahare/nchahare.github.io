@@ -11,7 +11,7 @@ tags: [articles, notes]
 Every time I take a flight, I can't help but notice the peculiar little holes in the airplane windows, leaving me curious about their purpose. Airplane windows are not only marvels of engineering that provide passengers with a breathtaking view of the skies but also play a critical role in maintaining cabin pressure and safety. One essential aspect of these windows is the presence of bleed holes. In this article, we will delve into the science behind these small yet crucial openings, unraveling the mystery behind their existence and explaining how they contribute to pressure equalization and passenger safety.
 
 <div class="row justify-content-sm-center">
-{% include figure.html path="assets/img/bleedholes.png" title="Images of the bleed holes" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/bleedholes.jpg" title="Images of the bleed holes" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 
