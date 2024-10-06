@@ -1,4 +1,4 @@
-- name: /nimesh
+- name: /home
   link: /
 
 - name: /journal

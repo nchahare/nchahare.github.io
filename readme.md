@@ -36,14 +36,18 @@
 
 ## need to do
 
-- [x] recipes and blog redirect needs to be fixed
-- [x] add now now
-- [x] replace me with about page
+- [ ] merge blogs, news, recipes and projects
+- [ ] delete useless css
 - [ ] add captions next to figure
 - [ ] add move pdfs to remote servers
+- [ ] move photos to remote server
+- [x] add more stickers
 - [x] compress figures to 480px and jpg
 - [x] cv in the pdf
 - [x] delete the javascript for zooming and light box
+- [x] recipes and blog redirect needs to be fixed
+- [x] add now now
+- [x] replace me with about page
 
 ## hidden blog posts.
   - important ones

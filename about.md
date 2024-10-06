@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Nimesh Chahare, Ph.D.
-description: Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 permalink: /about/
 images:
   - /assets/img/meme2024.jpg
@@ -15,3 +14,5 @@ images:
     {% endfor %}
   </div>
 {% endif %}
+
+Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain. 
