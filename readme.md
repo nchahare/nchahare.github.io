@@ -36,7 +36,7 @@
 
 ## need to do
 
-- [ ] recipes and blog redirect needs to be fixed
+- [x] recipes and blog redirect needs to be fixed
 - [x] add now now
 - [x] replace me with about page
 - [ ] add captions next to figure, 
