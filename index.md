@@ -20,7 +20,7 @@ On side, I'm the convenor of the [International Epithelial Mechanics Fan Club](h
 
 Welcome to my corner of the internet!<br> I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city.<br>
 I share some of these on [my blog](/journal).<br>
-Now I'm doing [this](/now)
+Now I'm doing [this](/now)<br>
 
 ## on the web
 
