@@ -8,7 +8,13 @@ seo_title: Nimesh Chahare, PhD
 seo_description: Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain.
 ---
 
-Hello! My name is [Nimesh Chahare](/about).<br>
+
+<details>
+    <summary>Hello! I'm <a href="{{'/about' | prepend: site.baseurl }}"> Nimesh Chahare</a><br></summary>
+    <img src="/assets/img/meme2024.jpg"  height="10px" title="Nimesh Chahare">
+</details>
+
+
 I'm a scientist, engineer, amateur artist, and much more. Check my [portfolio](/portfolio)/[CV](/cv).
 
 I'm working as a postdoctoral Scientist at [Columbia University](https://nerurkar.bme.columbia.edu/) in New York City.<br>
