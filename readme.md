@@ -70,5 +70,4 @@
     - de googling
     - nextcloud
     - obsidian workflow
-    - nfc card blog
     - book reviews 
