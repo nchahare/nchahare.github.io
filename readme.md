@@ -65,7 +65,6 @@
     - ccd camera, falling prey to a hipster fad
     - new ways of doing website
   - casual
-    - syncthing
     - visiting BSC
     - zotero workflow
     - corre bravas
