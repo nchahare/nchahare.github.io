@@ -65,7 +65,6 @@
     - ccd camera, falling prey to a hipster fad
     - new ways of doing website
   - casual
-    - make a custom command for sudo apt update/upgrade
     - syncthing
     - visiting BSC
     - zotero workflow
