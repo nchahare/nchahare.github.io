@@ -7,33 +7,50 @@ layout: default
   {{ content }}
 
   <h2>updates</h2>
-  {%- assign sorted_news = site.news | sort: 'date' | reverse -%}
-  <ul>
+  <table>
+    {%- assign sorted_news = site.news | sort: 'date' | reverse -%}
     {%- for item in sorted_news limit:3 -%}
-      <li>
-        {%- assign date_format = "%Y-%m-%d" -%} 
-        {{ item.date | date: date_format }} <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
-      </li>
+      <tr>
+        <td class="date-column">
+          {{ item.date | date: "%Y-%m-%d" }}
+        </td>
+        <td class="empty-column"></td>
+        <td class="content-column">
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        </td>
+      </tr>
     {%- endfor -%}
-  </ul>  
+  </table>
   <a href="{{'/news'| prepend: site.baseurl }}"> ... more</a>
 
 
   <h2>notes</h2>
-  {%- if site.posts.size > 0 -%}
-    <ul>
-      {%- for post in site.posts limit:3 -%}
-        <li>
-          {%- assign date_format = "%Y-%m-%d" -%}
-          {{ post.date | date: date_format }} <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </li>
-      {%- endfor -%}
-    </ul>
-    <a href="{{'/journal' | prepend: site.baseurl }}"> ... more</a>
-  {%- endif -%}  
+  <table>
+    {%- assign sorted_posts = site.posts | sort: 'date' | reverse -%}
+    {%- for item in site.posts limit:3 -%}
+      <tr>
+        <td class="date-column">
+          {{ item.date | date: "%Y-%m-%d" }}
+        </td>
+        <td class="empty-column"></td>
+        <td class="content-column">
+          <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+        </td>
+      </tr>
+    {%- endfor -%}
+  </table>
+  <a href="{{'/journal' | prepend: site.baseurl }}"> ... more</a>
+
+
+
+
+
+
+
+
+
 
   <h2>   </h2>
-
 
   <details>
     <summary>colophon</summary>
