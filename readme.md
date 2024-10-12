@@ -36,7 +36,6 @@
 
 ## need to do
 
-- [ ] merge blogs, news, recipes and projects
 - [ ] delete useless css
 - [ ] add captions next to figure
 - [ ] add move pdfs to remote servers
@@ -70,7 +69,6 @@
     - corre bravas
     - de googling
     - nextcloud
-    - mixcloud
     - obsidian workflow
     - nfc card blog
     - book reviews 

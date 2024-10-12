@@ -2,7 +2,7 @@
 title: "Syncthing: Freedom from Google Photos"
 author: Nimesh Chahare
 layout: post
-date: 2023-12-14
+date: 2024-01-06
 tags: resources
 ---
 
