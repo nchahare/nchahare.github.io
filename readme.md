@@ -66,7 +66,6 @@
   - casual
     - visiting BSC
     - zotero workflow
-    - corre bravas
     - de googling
     - nextcloud
     - obsidian workflow

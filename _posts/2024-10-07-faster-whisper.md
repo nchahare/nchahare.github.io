@@ -2,7 +2,7 @@
 title: "Transcribing audio with Faster whisper"
 author: Nimesh Chahare
 layout: post
-date: 2023-11-30
+date: 2024-07-30
 tags: resources
 ---
 
