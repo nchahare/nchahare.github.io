@@ -75,4 +75,4 @@
     - how to straigthen images, fiji is amazing
     - collection of anti-choking posters
     - presentations with morphing transitions!!
-    - 
+    - development charts of different organisms
