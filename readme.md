@@ -69,4 +69,10 @@
     - de googling
     - nextcloud
     - obsidian workflow
-    - book reviews 
+    - book reviews
+    - pandoc using obsidian to make cool latex documents
+    - 81x31, yesterweb nostalgia
+    - how to straigthen images, fiji is amazing
+    - collection of anti-choking posters
+    - presentations with morphing transitions!!
+    - 
