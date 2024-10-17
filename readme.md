@@ -2,6 +2,7 @@
 
 ## info to update in future
 
+- always update the date!!!
 - always run `bundle install`
 - then run `bundle exec jekyll serve`
 
