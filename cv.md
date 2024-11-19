@@ -6,6 +6,7 @@ permalink: /cv/
 <div style="text-align: right;">
   <a href="/assets/pdf/cv.pdf">Download .pdf</a>
 </div>
+
 ## Current position
 
 - Postdoctoral Reseach Scientist with Prof. Nandan Nerurkar
@@ -24,7 +25,7 @@ permalink: /cv/
 
 Come say HI! to me on internet.
 
-[Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)
+[Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)/ [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
 
 
 ## 👨‍🎓 Education
@@ -71,6 +72,17 @@ Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. 
 Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
 
 Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
+
+## Seminars
+
+Multiscale dynamics of epithelial shells, Gulmohar: Indian Society of Developmental Biologists' postdoc talk series, November 2024
+
+Mechanics of epithelial shells, International Developmental Mechanics Zoom Seminar Series, November 2024
+
+Multiscale buckling of epithelial shells. Indian Institute of Science, Bengaluru, India, March 2024 [(link)](https://mecheng.iisc.ac.in/wp-content/uploads/2024/02/Nimesh.pdf)
+
+
+
 
 
 ## 👨‍💻 Research experience
