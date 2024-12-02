@@ -30,5 +30,5 @@ Now I'm doing [this](/now)<br>
 
 ## on the web
 
-[Work Email](mailto:nimesh.c@columbia.edu) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Google scholar](https://scholar.google.com/citations?user=g0yOthAAAAAJ&hl=en&oi=ao) / [Twitter](https://twitter.com/onenimesa/)
+[Work Email](mailto:nimesh.c@columbia.edu) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Google scholar](https://scholar.google.com/citations?user=g0yOthAAAAAJ&hl=en&oi=ao) / [Twitter](https://twitter.com/onenimesa/) / [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
 
