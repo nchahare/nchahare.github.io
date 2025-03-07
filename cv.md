@@ -234,7 +234,6 @@ Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Mic
 
 ### Responsibilities 
 
-- Active in organizing committee at Columbia Postdoctoral Workers, UAW Local 4100. 2024-Present 
 - Convenor of International Epithelial Mechanics Fan Club. 2023-Present
 - Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab. 2019-2024
 - Member of PhD committee at IBEC. 2018-2019
