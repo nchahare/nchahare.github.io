@@ -10,7 +10,7 @@ permalink: /portfolio/
 
 I'm a Postdoctoral Research Scientist at *Columbia University, New York* with [Prof. Nerurkar](https://nerurkar.bme.columbia.edu/) on understanding mechanics of morphogenesis in chick embryos.
 
-I'm also a founder and convenor of the [International Epithelial Mechanics Club](https://twitter.com/EpiMechFC), where we are building a community of scientists interested in Epithelial Mechanics and role of mechanical forces in biological contexts. 
+I'm also a founder and convenor of the [International Epithelial Mechanics Club](https://epithelialmechanics.github.io/), where we are building a community of scientists interested in Epithelial Mechanics and role of mechanical forces in biological contexts. 
 
 ## Interests
 
@@ -98,6 +98,8 @@ Combining mechanical engineering and biology, my research explores how physical 
 
 ### Patents
 
+**Chahare, N. R.**, Le Roux, A., Roca-Cusachs, P., and Trepat, X. A novel microfluidic chip for stretching adherent cells and tissues. (Patent application process initiated October 2024)
+
 Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
 ### Articles in Peer-Reviewed Journals
@@ -111,22 +113,10 @@ Chatterjee, A., **Chahare, N. R.**, Kondaiah, P., & Gundiah, N. (2021). [Role of
 
 Kundanati, L., **Chahare, N. R.**, Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N. (2020). [Cutting mechanics of wood by beetle larval mandibles.](https://doi.org/10.1016/j.jmbbm.2020.104027) Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027.
 
+### Preprint Articles
 
-## Conferences
+Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2025). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) bioRxiv, 2025-08.
 
-**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T., Roca-cusachs, P., Arroyo, M., and Trepat, X. “ Harnessing active viscoelasticity for synthetic epithelial morphogenesis.” German Physics Society, Dresden, Germany. March 26-31, 2023
+**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06.
 
-**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Shaping epithelia through buckling in pressure-controlled tissue.” World congress of biomechanics, Taipei, Taiwan. July 10-14, 2022 
-
-**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBL-IBEC Conference, Engineering multicellular systems, Barcelona, Spain. June 08-10, 2022 
-
-**Chahare, N. R.**, Ouzeri, A., Golde, T., Wilson, T. Arroyo, M., and Trepat, X. “Synthetic epithelial morphogenesis through controlled stretching and buckling.” EMBO-EMBL Symposium, Mechanobiology in development and disease, Heidelberg, Germany. May 15–18, 2022 
-
-Chatterjee, A., **Chahare, N. R.**, Kulkarni, A., Kondaiah, P., and Gundiah, N. “Design of adynamic cell stretcher to quantify responses of fibroblasts to cyclic stretching and TGF-β.”5th International Conference on Computational and Mathematical Biomedical Engineering,Pittsburgh, Pennsylvania, USA. April 10–12, 2017
-
-Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda crackingmachine using flywheel motor.” Association for Machines and Mechanisms’ IndustrialProblems on Machines and Mechanisms (IPRoMM), Nagpur, India. Dec 22–23, 2016
-
-Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
-
-
-
+Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2025). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://www.biorxiv.org/content/10.1101/2025.03.23.644792.full) bioRxiv, 2025-03.

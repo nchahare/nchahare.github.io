@@ -4,6 +4,15 @@ title:  Nimesh's News
 permalink: /news/
 ---
 
+<style>
+  table {
+    vertical-align: top;
+  }
+  td {
+    vertical-align: top;
+  }
+</style>
+
 <table>
   {%- assign sorted_news = site.news | sort: 'date' | reverse -%}
   {%- for item in sorted_news -%}

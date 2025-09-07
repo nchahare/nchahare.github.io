@@ -4,9 +4,14 @@ title: media
 description: The closest thing to my Instagram you'll ever encounter
 permalink: /media/
 images:
+  - /assets/img/meinlab2024.JPG
+  - /assets/img/h5-bx-sm-sx.gif
+  - /assets/img/meatpintofscience.jpg
   - /assets/img/meme2024.jpg
+  - /assets/img/failuremonument.jpg
   - /assets/img/organicorigami.jpg
   - /assets/img/bcc1.jpg
+  - /assets/img/meinmicroscope.gif
   - /assets/img/phddefense.jpg
   - /assets/img/thesiscover.jpg
   - /assets/img/1702570033758.jpg

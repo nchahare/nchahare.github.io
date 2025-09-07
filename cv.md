@@ -3,9 +3,6 @@ layout: default
 title: Nimesh Chahare's CV
 permalink: /cv/
 ---
-<div style="text-align: right;">
-  <a href="/assets/pdf/cv.pdf">Download .pdf</a>
-</div>
 
 ## Current position
 
@@ -16,16 +13,12 @@ permalink: /cv/
 
 ## Research Interests
 
-- Biology
-    - Mechanobiology, and Developmental Biology
-- Mechanics
-    - Continuum mechanics, Material testing, and Biophysics
+- Biology: Mechanobiology, and Developmental Biology
+- Mechanics: Continuum mechanics, Material testing, and Biophysics
 
 ## Contact
 
-Come say HI! to me on internet.
-
-[Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [GitHub](https://github.com/nchahare/) / [Twitter](https://twitter.com/onenimesa/)/ [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
+[Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Twitter](https://twitter.com/onenimesa/)/ [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
 
 
 ## 👨‍🎓 Education
@@ -41,7 +34,17 @@ Come say HI! to me on internet.
 
 ## 📰 Publications
 
+### Preprint Articles
+
+Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2025). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) bioRxiv, 2025-08.
+
+**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06.
+
+Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2025). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://www.biorxiv.org/content/10.1101/2025.03.23.644792.full) bioRxiv, 2025-03.
+
 ### Patents
+
+**Chahare, N. R.**, Le Roux, A., Roca-Cusachs, P., and Trepat, X. A novel microfluidic chip for stretching adherent cells and tissues. (Patent application process initiated October 2024)
 
 Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
@@ -73,16 +76,15 @@ Satone, V., **Chahare, N. R.**, and Padole, P. “Design of pedal operated behda
 
 Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics of the Cuticleof Wood Boring Insects.” Structural Integrity Conference and Exhibition (SICE), Bengaluru,India. July 4–6, 2016
 
-## Seminars
+## Invited Talks and Presentations
+
+“What is epithelial mechanics? and Why should we care about it?” Pint of Science talk, New York, USA, May 2025
 
 Multiscale dynamics of epithelial shells, Gulmohar: Indian Society of Developmental Biologists' postdoc talk series, November 2024
 
 Mechanics of epithelial shells, International Developmental Mechanics Zoom Seminar Series, November 2024
 
 Multiscale buckling of epithelial shells. Indian Institute of Science, Bengaluru, India, March 2024 [(link)](https://mecheng.iisc.ac.in/wp-content/uploads/2024/02/Nimesh.pdf)
-
-
-
 
 
 ## 👨‍💻 Research experience
@@ -155,6 +157,8 @@ Thesis: **Design and Fabrication of a Hirda (Terminalia chebula) Cracking Machin
 
 ## 📓 Mentoring experience
 
+Mentoring Chieko Imamura, undergraduate student at Columbia Biomedical engineering, for studying mechanobiology of brain development, 2025
+
 Mentoring Kayla Williamson, undergraduate student at Columbia Biomedical engineering, for designing experimental setups enabling long term imaging of early chick embryo, 2024
 
 Mentored Pau Pujol, a summer student, with Thomas Wilson, in developing algorithms to segment 3D microscopy data, 2024
@@ -193,6 +197,8 @@ Department of Safety, Tata Indica plant, Pune, India
 **Bagged 22nd position** in national level presentation competition for future transportation solution, TATA MOTORS’ MIND ROVER, 2013.
 
 ### Grants
+
+**International travel grant** for EMBO workshop on computational modeling of multicellular systems in Barcelona, Spain, 2025
 
 **International travel grant** for attending winter school on Quantitative Systems Biology at International Centre for Theoretical Sciences (ICTS), Bengaluru, India 2019.
 
