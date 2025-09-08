@@ -11,7 +11,7 @@ seo_description: Nimesh Chahare is a postdoctoral scientist at Columbia Universi
 
 <details>
     <summary>Hello! I'm <a href="{{'/about' | prepend: site.baseurl }}"> Nimesh Chahare</a><br></summary>
-    <img src="/assets/img/meme2024.jpg"  height="10px" title="Nimesh Chahare">
+    <img src="/assets/img/meinlab2024.JPG"  height="10px" title="Nimesh Chahare">
 </details>
 
 
