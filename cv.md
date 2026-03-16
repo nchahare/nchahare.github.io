@@ -3,7 +3,9 @@ layout: default
 title: Nimesh Chahare's CV
 permalink: /cv/
 ---
-
+<div style="text-align: right;">
+  <a href="/cv.pdf">Download .pdf</a>
+</div>
 ## Current position
 
 - Postdoctoral Reseach Scientist with Prof. Nandan Nerurkar
@@ -13,8 +15,9 @@ permalink: /cv/
 
 ## Research Interests
 
-- Biology: Mechanobiology, and Developmental Biology
-- Mechanics: Continuum mechanics, Material testing, and Biophysics
+- Epithelial Mechanics.
+- Neurodevelopmental Biology.
+- Mechanobiology.
 
 ## Contact
 
@@ -34,13 +37,15 @@ permalink: /cv/
 
 ## 📰 Publications
 
-### Preprint Articles
+### Preprints and Articles in Preparation
 
-Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2025). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) bioRxiv, 2025-08.
+**Chahare, N.**, Imamura, C., & Nerurkar, N.L. Lumen pressure regulates cellular proliferation patterns during chick early embryonic brain development. (in preparation).
 
-**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06.
+Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2025). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) bioRxiv, 2025-08. (in review).
 
-Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2025). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://www.biorxiv.org/content/10.1101/2025.03.23.644792.full) bioRxiv, 2025-03.
+**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06. (in review).
+
+Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2025). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://www.biorxiv.org/content/10.1101/2025.03.23.644792.full) bioRxiv, 2025-03. (in review).
 
 ### Patents
 
@@ -93,17 +98,20 @@ Multiscale buckling of epithelial shells. Indian Institute of Science, Bengaluru
 
 Adviser: **Prof. Nandan Nerurkar**, May 2024- Present
 
-**Mechanics of morphogenesis of embryonic brain development**
+**Project: Mechanics of morphogenesis of embryonic brain development**
+
+- Characterized chick embryonic brain morphology through various developmental stages using confocal imaging, while also developing computational tools to analyze geometric changes.
+- Investigating the relationship between molecular signaling and physical forces, such as pressure and tension, by developing techniques to control lumen pressure and alter morphogen patterning.
 
 ### PhD student and Postdoctoral researcher, Institute for Bioengineering of Catalonia, and UPC
 
 Adviser: **Prof. Xavier Trepat** and **Prof. Marino Arroyo**, Aug 2017– May 2024
 
-Thesis: **Mechanics of epithelial layers subjected to controlled pressure and tension**
+**Thesis: Mechanics of epithelial layers subjected to controlled pressure (Grade: cum laude)**
 
-- Designed a microfluidic chip to control epithelial shapes and pressure.
-- Performed rheological study with inflated epithelial monolayers to understand actomyosin cortex remodelling.
-- Discovered a new method to generate epithelial folds via mechanical phenomena of buckling.
+- Developed a microfluidic chip to control epithelial tissue shapes and lumen pressure.
+- Implemented an innovative approach to pattern epithelial folds through controlled buckling.
+- Acquired expertise in cell culture, protein micropatterning, microfluidic device design and fabrication, advanced microscopy, along with proficiency in image processing and cell segmentation.
 
 **Computational tool for analysing nuclear to cytoplasmic transport**
 
@@ -171,6 +179,10 @@ Undertook Alexandre Garcia-Duran as summer student in University of Barcelona In
 
 Trained two high school students in a project related to 3D epithelia at Institute for Bioengineering of Catalonia with Treball de Recerca program, 2017.
 
+## 🎨 Art Exhibitions
+
+- A=A, B=B'', Antoni Tàpies Foundation Museum, Barcelona, Spain. Dec. 2023-Mar. 2024.
+- "Organic Origami" artwork as part of City and Science Biennial 2023, Centre de Cultura Contemporània de Barcelona, Barcelona, Spain. Feb. 2023.
 
 ## 💼 Professional experience
 
@@ -211,38 +223,33 @@ Department of Safety, Tata Indica plant, Pune, India
 2022 Interviewed for European Commision funded project, Mechanocontrol, Talked about the inventing novel microfluidic devices. [link](https://mechanocontrol.eu/project-stories-interview-with-nimesh-chahare/)
 
 
-## 👨‍🔧 Technical skills
+## 👨‍🔧 Key Proficiencies
 
-### Cell Biology and Microscopy
+### Biology
+Chick embryology, cryosectioning, mammalian cell culture, immunofluorescence stainings, protein micropatterning (microcontact printing and photopatterning), hydrogel preparation, 3DISCO clearing, Handling epithelial cell lines in the context of in vitro 2D/3D experiments.
 
-Spinning disk confocal microscopy, Airy Scan Confocal microscopy, light and fluorescence microscopy. Light sheet microscopy.
+### Microscopy
+Advanced microscopy techniques, including light/fluorescence microscopy and 2 photon, spinning disk/laser scanning confocal microscopy, and SPIM lightsheet microscopy. Utilized photobleaching techniques (FRAP, FLIP), along with local photoactivation for optogenetics.
 
-Photobleaching techniques in Fluorescence recovery after Photobleaching (FRAP) and FluorescenceLoss in Photobleaching (FLIP).
-
-Cell culture, Protein micropatterning techniques, and Elastomer preparation, Hydrogel preparation.
-
-### Programming
-
-MATLAB, R, Python, Maple, Wolfram Mathematica, HTML, LATEX, Markdown and Arduino IDE.
+### Microfluidics
+Experienced in working within microfabrication facilities, involving designing photomasks, photolithography, plasma bonding, 3D printing with a DLP projector, elastomer (PDMS) preparation, and fabrication of frugal microfluidic devices using a desktop cutting machine.
 
 ### Design and Analysis
+**Programming:** Python, MATLAB, R, FIJI macro, Markdown, TEX. **Image Processing:** Automated segmentation, Napari, Vedo, and 3D analysis pipeline development for large datasets. **3D modeling:** FreeCAD, SolidWorks, Inkscape, Blender, and Keyshot.
 
-SolidWorks, Inkscape, Adobe Illustrator, SolidEdge, Cinema4D and Keyshot.
-
-ImageJ, AMIRA, ABAQUS, Hypermesh, and COMSOL.
-
-### Mechanical and Material Testing
-
-Dynamic mechanical spectroscopy (DMA, TA Instruments), microindentation (CSM Micro-HardnessTester), 3D printing, and bioreactors (planar biaxial stretcher and shear device).
+### Soft Skills
+Strong collaboration and teamwork abilities, confident in public speaking, self-motivated quick learner, adept at trouble-shooting, and adaptable to dynamic challenges.
 
 
-## 🤹️ Activities
+## 📓 Leadership and Service Activities
 
-### Responsibilities 
-
-- Convenor of International Epithelial Mechanics Fan Club. 2023-Present
-- Managed data servers (synology and magnetic tape drive system) in the Prof. Trepat’s lab. 2019-2024
-- Member of PhD committee at IBEC. 2018-2019
+- Elected as Co-Vice President at Columbia University Postdoctoral Society (CUPS). 2025-Present.
+- Elected as Steward at Columbia Postdoctoral Workers, UAW Local 4100. 2024-Present.
+- Mentoring undergraduate student at Columbia University. 2024-Present.
+- Founder and convenor of the International Epithelial Mechanics Fan Club. 2023-Present.
+- Invited to be a panelist in a discussion on the topic of 'Why Scientists Should Care About Art?' organized by the Barcelona City Government. 2023.
+- Active participation in organizing March for Science events in Barcelona. 2018, 2023.
+- Managed data servers (synology and magnetic tape drive system) at Prof. Trepat's lab. 2018-2024.
 
 ## 💬 Languages
 
