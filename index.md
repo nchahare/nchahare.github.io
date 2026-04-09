@@ -28,6 +28,6 @@ I share some of these on [my blog](/journal).<br>
 Now I'm doing [this](/now)<br>
 
 ## on the web
-
-[Work Email](mailto:nimesh.c@columbia.edu) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Orcid](https://orcid.org/0000-0003-3210-6777) / [Google scholar](https://scholar.google.com/citations?user=g0yOthAAAAAJ&hl=en&oi=ao) / [Twitter](https://twitter.com/onenimesa/) / [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
+[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Orcid](https://orcid.org/0000-0003-3210-6777) / [Google scholar](https://scholar.google.com/citations?user=g0yOthAAAAAJ&hl=en&oi=ao) / [Twitter](https://twitter.com/onenimesa/) / [Bluesky](https://bsky.app/profile/onenimesa.bsky.social) <br>
+Just email me: <span class="reverse-email">ude.aibmuloc@c.hsemin</span> / <span class="reverse-email">moc.liamg@hseminerahahc</span> 
 

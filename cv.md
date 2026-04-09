@@ -21,7 +21,8 @@ permalink: /cv/
 
 ## Contact
 
-[Work Email](mailto:nimesh.c@columbia.edu) / [Gmail](mailto:chaharenimesh@gmail.com) /[LinkedIn](https://www.linkedin.com/in/nchahare/) / [Twitter](https://twitter.com/onenimesa/)/ [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
+ <span class="reverse-email">ude.aibmuloc@c.hsemin</span> / <span class="reverse-email">moc.liamg@hseminerahahc</span> <br>
+ [LinkedIn](https://www.linkedin.com/in/nchahare/) / [Twitter](https://twitter.com/onenimesa/)/ [Bluesky](https://bsky.app/profile/onenimesa.bsky.social)
 
 
 ## 👨‍🎓 Education
