@@ -44,15 +44,15 @@ permalink: /cv/
 
 Pullarkat, P., Vishwakarma, R., Gundiah, N.,  and **Chahare, N. R.**, [A microscope mountable fluid shear device](http://ipindia.gov.in/writereaddata/Portal/IPOJournal/1_2591_1/Part-1.pdf). Indian patent, IN201641029893A, pg 275/677 Published 2018-03-09.
 
-### Articles in Peer-Reviewed Journals
+### Articles
 
 **Chahare, N.**, Imamura, C., & Nerurkar, N.L. [Morphometric analysis reveals that the chick cranial neural tube expands as an active shell.](https://www.biorxiv.org/content/10.64898/2026.05.18.726048v1) bioRxiv, 2026-05.
 
+Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2026). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://doi.org/10.1103/4mx5-t5hx) PRX Life 
+
+Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2026). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) Nature Physics 
+
 **Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06. (In review: Sept. 24th, 2025)
-
-Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2025). [A keratin bundling transition uncages the nucleus in stretched epithelia.](https://www.biorxiv.org/content/biorxiv/early/2025/08/29/2025.08.25.672104.full.pdf) Nature Physics (In Press: May 7th, 2026)
-
-Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2025). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://www.biorxiv.org/content/10.1101/2025.03.23.644792.full) PRX Life q (In Press: April 8th, 2026 )
 
 Andreu, I. + , Granero-Moya, I. + , **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2022). [Mechanical force application to the nucleus regulates nucleocytoplasmic transport](https://www.nature.com/articles/s41556-022-00927-7). Nature Cell Biology
 
