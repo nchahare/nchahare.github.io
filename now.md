@@ -4,22 +4,17 @@ title: now
 permalink: /now/
 ---
 
-Spring is almost here!
+Fall's here!
 
-I'm a scientist at Columbia University, becoming quite the expert in chicken brain development.
-On the side, I am enjoying coding in Python and all my projects are really working well.
-I'm also a steward at Columbia Postdoctoral Workers, solving workplace issues. We are going in bargaining very soon.
-And managing my online community, Epithelial Mechanics fan club.
+I'm a scientist at EMBL Barcelona, looking forward to learning stem cell biology. I am still managing the epithelial mechanics community.
 
-Almost two years in NYC. You know how it is here! 
-Anyway, New York City is super cool. I regularly eat giant, overstuffed sandwiches.
-Summers are too hot, and winters are too cold here.
-Got married. Considering both of us and our jobs, we will move back to Barcelona. I hope to find a job there.
+I just moved back to Barcelona from NYC. Uufff. It was very nerve-wracking to move from one place to another, find jobs for everyone, find a flat to rent, especially in Barcelona, get papers through peer review, and write a grant. Somehow, I managed to do it all. I feel very lucky that it worked out. I miss Central Park and my NYC friends though.
 
+I'm in a neighborhood I love, on top of a bar I love. I'm in a century-old flat, which was hell in the summer, but now it's getting nice. I like the people going around, people drinking out on the terraces, and long summer hours. Life's going ok.
 
-I was doing film photography. Very cool but very expensive. Now I got a 20 year CCD digicam. It's quite nice. 
-I like going on walks in Central Park.
-Thinking about `what's the goal of my life?` as my dad asks me.
+I'm feeling excited for future experiments, in life and in the lab.
+
+I like going around my barri with my CCD camera, taking pictures of old modernist buildings and their window railings. Thinking about `what's the goal of my life?` as my dad asks me.
 
 
-Updated 2026-03-12
+Updated 2026-09-14

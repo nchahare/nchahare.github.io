@@ -15,4 +15,4 @@ images:
   </div>
 {% endif %}
 
-Nimesh Chahare is a postdoctoral scientist at Columbia University in New York. His research focuses on the intersection of mechanical engineering and developmental biology, specifically exploring the morphogenesis of early embryonic brain. 
+Nimesh Chahare is a postdoctoral fellow in the [Stuart group](https://www.embl.org/groups/stuart/) at EMBL Barcelona, asking how mechanics guides stem cells as they self-organize into a neural tube. He trained as a mechanical engineer in material science, and works at the intersection of tissue mechanics and developmental biology. 

@@ -7,8 +7,8 @@
 
     <title>{% if page.url != '/' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.description }}" />
-    <link rel="stylesheet" href="{{ '/assets/css/simple.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/assets/css/simple.css' | prepend: site.baseurl }}?v={{ site.time | date: '%s' }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}?v={{ site.time | date: '%s' }}">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
@@ -35,13 +35,26 @@
     </main>
 
     <footer>
-      <p>Made with ❤️ by <a href="\about"> Nimesh Chahare </a> <br> Last-updated: March, 2026  </p>
+      <p>Made with ❤️ by <a href="\about"> Nimesh Chahare </a> <br> Last-updated: September, 2026  </p>
       <img src="/assets/img/chick.png" title="Nimesh doesn't respect/trust authority. Question everything!">
       <img src="/assets/img/nowar.jpg" title="Nimesh opposes war & prefers his taxes fund social welfare over military">
       <img src="/assets/img/labor.png" title="Nimesh supports Labor rights. Join the Union! If you don't have one, UNIONIZE!">
       <img src="/assets/img/jaibhim.png" title="Nimesh says Jai Bhim! Annihilate caste!">
       <img src="/assets/img/nocookie.gif" title="Nimesh doesn't like cookies">
     </footer>
+
+    <script>
+      // Addresses are written as "name [at] domain" in the markup so that
+      // regex-based harvesters get nothing useful. Anyone with JS gets a real
+      // mailto: link; without JS the [at] form is still readable and copyable.
+      Array.prototype.forEach.call(document.querySelectorAll('.email'), function (el) {
+        var address = el.textContent.trim().replace(' [at] ', '@');
+        var link = document.createElement('a');
+        link.href = 'mailto:' + address;
+        link.textContent = address;
+        el.parentNode.replaceChild(link, el);
+      });
+    </script>
 
   </body>
 </html>

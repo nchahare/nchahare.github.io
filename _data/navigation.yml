@@ -4,14 +4,14 @@
 - name: /journal
   link: /journal/
 
-- name: /portfolio
-  link: /portfolio/
-
-- name: /media
-  link: /media/
+- name: /art
+  link: /art/
 
 - name: /cv
   link: /cv/
 
 - name: /cookbook
   link: /cookbook/
+
+- name: /media
+  link: /media/

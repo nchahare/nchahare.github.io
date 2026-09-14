@@ -3,6 +3,10 @@ permalink: /404.html
 layout: default
 ---
 
+<noscript>
+  <meta http-equiv="refresh" content="5;url={{ '/' | relative_url }}">
+</noscript>
+
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -22,4 +26,34 @@ layout: default
 
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
+  <p aria-live="polite">
+    Going <a href="{{ '/' | relative_url }}" id="home-link">home</a>
+    <span id="countdown">in 5 seconds</span>.
+  </p>
 </div>
+
+<script>
+  (function () {
+    var seconds = 5;
+    var countdown = document.getElementById('countdown');
+    var home = document.getElementById('home-link').getAttribute('href');
+    var timer = setInterval(function () {
+      seconds -= 1;
+      if (seconds <= 0) {
+        clearInterval(timer);
+        countdown.textContent = 'now';
+        window.location.replace(home);
+        return;
+      }
+      countdown.textContent = 'in ' + seconds + ' second' + (seconds === 1 ? '' : 's');
+    }, 1000);
+
+    // Cancel the redirect if the visitor shows any intent to stay.
+    ['click', 'keydown', 'wheel', 'touchstart'].forEach(function (event) {
+      document.addEventListener(event, function () {
+        clearInterval(timer);
+        countdown.textContent = 'whenever you like';
+      }, { once: true });
+    });
+  })();
+</script>

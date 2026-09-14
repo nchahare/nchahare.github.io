@@ -1,11 +1,22 @@
+/* Dark theme overrides. These live here rather than in simple.css so that
+   updating the vendored library does not wipe them. style.css is loaded
+   after simple.css, so these win. */
+@media (prefers-color-scheme: dark) {
+  :root,
+  ::backdrop {
+    --bg: #0f0f0f;
+    --accent-bg: #0f0f0f;
+    --text: #e4e4e4;
+    --accent: #ffb454;
+    --accent-hover: #ffd8a8;
+    --code: #d99a6c;
+    --disabled: #1c1c1c;
+  }
+}
+
 .post-link {
   font-size: 1.6rem;
   font-weight: bold;
-}
-
-.reverse-email {
-    direction: rtl;
-    unicode-bidi: bidi-override;
 }
 
 .meta {
