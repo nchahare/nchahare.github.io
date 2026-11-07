@@ -1,0 +1,106 @@
+# Publication list rendered by publications.md.
+# type: article | patent | software | thesis
+# Entries are rendered in the order they appear here, grouped by type.
+# Mark your own name with <strong>...</strong>; mark equal contribution with +.
+
+- type: article
+  year: 2026
+  authors: "<strong>Chahare, N.</strong> & Nerurkar, N. L."
+  title: "Protocol for standardized 3D-to-2D cartography of the chick neural tube using spatchcocking, an open-source Python tool"
+  venue: "STAR Protocols (under review)"
+  code: https://doi.org/10.5281/zenodo.23803314
+
+- type: article
+  year: 2026
+  authors: "<strong>Chahare, N.</strong>, Imamura, C., & Nerurkar, N. L."
+  title: "Morphometric analysis reveals that the chick cranial neural tube expands as an active shell"
+  venue: "Biophysical Reports, 100280"
+  link: https://doi.org/10.1016/j.bpr.2026.100280
+  code: https://github.com/nchahare/spatchcocking
+
+- type: article
+  year: 2026
+  authors: "Ouzeri, A., Kale, S., <strong>Chahare, N.</strong>, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M."
+  title: "Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models"
+  venue: "PRX Life, 4(2), 023022"
+  link: https://doi.org/10.1103/4mx5-t5hx
+
+- type: article
+  year: 2026
+  authors: "Golde, T., Pensalfini, M., <strong>Chahare, N.</strong>, Roca-Cusachs, P., Wiche, G., Charras, G., &hellip; & Trepat, X."
+  title: "Dynamics of supracellular keratin bundling and nuclear uncaging in stretched epithelia"
+  venue: "Nature Physics"
+  link: https://doi.org/10.1038/s41567-026-03371-8
+
+- type: article
+  year: 2025
+  authors: "<strong>Chahare, N.</strong>, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., &hellip; & Arroyo, M."
+  title: "Multiscale wrinkling dynamics in epithelial shells"
+  venue: "bioRxiv, 2025-06"
+  link: https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract
+
+- type: article
+  year: 2022
+  authors: "Andreu, I.+, Granero-Moya, I.+, <strong>Chahare, N. R.</strong>, Clein, K., Jordàn, M. M., Beedle, A. E., &hellip; & Roca-Cusachs, P."
+  title: "Mechanical force application to the nucleus regulates nucleocytoplasmic transport"
+  venue: "Nature Cell Biology, 24(6), 896&ndash;905"
+  link: https://www.nature.com/articles/s41556-022-00927-7
+
+- type: article
+  year: 2021
+  authors: "Andreu, I.+, Falcones, B.+, Hurst, S., <strong>Chahare, N.</strong>, Quiroga, X., Le Roux, A. L., &hellip; & Roca-Cusachs, P."
+  title: "The force loading rate drives cell mechanosensing through both reinforcement and cytoskeletal softening"
+  venue: "Nature Communications, 12(1), 4229"
+  link: https://www.nature.com/articles/s41467-021-24383-3
+
+- type: article
+  year: 2021
+  authors: "Chatterjee, A., <strong>Chahare, N. R.</strong>, Kondaiah, P., & Gundiah, N."
+  title: "Role of fiber orientations in the mechanics of bioinspired fiber-reinforced elastomers"
+  venue: "Soft Robotics, 8(6), 640&ndash;650"
+  link: https://www.liebertpub.com/doi/10.1089/soro.2019.0191
+
+- type: article
+  year: 2020
+  authors: "Kundanati, L., <strong>Chahare, N. R.</strong>, Jaddivada, S., Karkisaval, A. G., Sridhar, R., Pugno, N. M., & Gundiah, N."
+  title: "Cutting mechanics of wood by beetle larval mandibles"
+  venue: "Journal of the Mechanical Behavior of Biomedical Materials, 112, 104027"
+  link: https://doi.org/10.1016/j.jmbbm.2020.104027
+
+- type: patent
+  year: 2025
+  authors: "<strong>Chahare, N. R.</strong>, Le Roux, A., Roca-Cusachs, P., & Trepat, X."
+  title: "Cell stretchers: microfluidic device for stretching cells and tissues"
+  venue: "European patent application EP25383565.6, filed 30 December 2025"
+
+- type: patent
+  year: 2023
+  authors: "<strong>Chahare, N. R.</strong>, Pullarkat, P., Vishwakarma, R., & Gundiah, N."
+  title: "A microscope-mountable fluid shear device"
+  venue: "Indian patent 471468 (application IN201641029893), granted 24 November 2023"
+  link: https://patentscope.wipo.int/search/en/detail.jsf?docId=IN213727573
+
+- type: software
+  year: 2026
+  title: "spatchcocking"
+  venue: "Python framework mapping a curved 3D epithelium to a 2D reference frame and quantifying curvature, tissue thickness and mitotic activity across it. Released with Chahare et al., Biophysical Reports 2026."
+  link: https://github.com/nchahare/spatchcocking
+
+- type: software
+  year: 2022
+  title: "Nucleocytoplasmic transport analysis tool"
+  venue: "Measures nuclear import and export rates from FRAP and FLIP data. Released as supplementary software with Andreu et al., Nature Cell Biology 2022."
+  link: https://www.nature.com/articles/s41556-022-00927-7
+
+- type: software
+  year: 2021
+  title: "Force loading-rate analysis code"
+  venue: "Analyzes the atomic force microscopy and optical-tweezer datasets behind the loading-rate dependence. Released as supplementary software with Andreu et al., Nature Communications 2021."
+  link: https://www.nature.com/articles/s41467-021-24383-3
+
+- type: thesis
+  year: 2023
+  authors: "<strong>Chahare, N. R.</strong>"
+  title: "Mechanics of epithelial layers subjected to controlled pressure"
+  venue: "Ph.D. thesis, Universitat Politècnica de Catalunya (cum laude)"
+  link: https://upcommons.upc.edu/handle/2117/401551
