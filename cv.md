@@ -44,6 +44,8 @@ permalink: /cv/
 
 ### Articles
 
+**Chahare, N.**, & Nerurkar, N. L. (2026). Protocol for standardized 3D-to-2D cartography of the chick neural tube using spatchcocking, an open-source Python tool. STAR Protocols. Under review. [Code and data](https://doi.org/10.5281/zenodo.23803314)
+
 **Chahare, N.**, Imamura, C., & Nerurkar, N.L. (2026). [Morphometric analysis reveals that the chick cranial neural tube expands as an active shell.](https://doi.org/10.1016/j.bpr.2026.100280) Biophysical Reports, 100280.
 
 Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2026). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://doi.org/10.1103/4mx5-t5hx) PRX Life, 4(2), 023022.
