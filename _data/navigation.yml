@@ -4,8 +4,8 @@
 - name: /journal
   link: /journal/
 
-- name: /art
-  link: /art/
+- name: /publications
+  link: /publications/
 
 - name: /cv
   link: /cv/

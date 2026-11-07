@@ -26,7 +26,7 @@ Now I'm in the [Stuart group](https://www.embl.org/groups/stuart/) at EMBL Barce
 
 On side, I'm the convenor of the [International Epithelial Mechanics Fan Club](https://epithelialmechanics.github.io/). It's a small community I started for those who share my interest. [Join us!](https://epithelialmechanics.github.io/contact)
 
-Welcome to my corner of the internet!<br> I like learning new things, hanging out with people, reading books, cooking curries, making origami, and walking around the city.<br>
+Welcome to my corner of the internet!<br> I like learning new things, hanging out with people, reading books, cooking [curries](/cookbook), making origami, and walking around the city.<br>
 I share some of these on [my blog](/journal).<br>
 Now I'm doing [this](/now)<br>
 
