@@ -5,6 +5,13 @@
 
 - type: article
   year: 2026
+  authors: "<strong>Chahare, N.</strong>, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., &hellip; & Arroyo, M."
+  title: "Multiscale wrinkling dynamics in epithelial shells"
+  venue: "Nature (in press); preprint on bioRxiv, 2025-06"
+  link: https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract
+
+- type: article
+  year: 2026
   authors: "<strong>Chahare, N.</strong> & Nerurkar, N. L."
   title: "Protocol for standardized 3D-to-2D cartography of the chick neural tube using spatchcocking, an open-source Python tool"
   venue: "STAR Protocols (under review)"
@@ -31,13 +38,6 @@
   title: "Dynamics of supracellular keratin bundling and nuclear uncaging in stretched epithelia"
   venue: "Nature Physics"
   link: https://doi.org/10.1038/s41567-026-03371-8
-
-- type: article
-  year: 2025
-  authors: "<strong>Chahare, N.</strong>, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., &hellip; & Arroyo, M."
-  title: "Multiscale wrinkling dynamics in epithelial shells"
-  venue: "bioRxiv, 2025-06"
-  link: https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract
 
 - type: article
   year: 2022

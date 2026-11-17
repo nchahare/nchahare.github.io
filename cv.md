@@ -44,6 +44,8 @@ permalink: /cv/
 
 ### Articles
 
+**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2026). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) Nature, in press. Preprint on bioRxiv, 2025-06.
+
 **Chahare, N.**, & Nerurkar, N. L. (2026). Protocol for standardized 3D-to-2D cartography of the chick neural tube using spatchcocking, an open-source Python tool. STAR Protocols. Under review. [Code and data](https://doi.org/10.5281/zenodo.23803314)
 
 **Chahare, N.**, Imamura, C., & Nerurkar, N.L. (2026). [Morphometric analysis reveals that the chick cranial neural tube expands as an active shell.](https://doi.org/10.1016/j.bpr.2026.100280) Biophysical Reports, 100280.
@@ -51,8 +53,6 @@ permalink: /cv/
 Ouzeri, A., Kale, S., **Chahare, N.**, Torres-Sanchez, A., Santos-Olivan, D., Trepat, X., & Arroyo, M. (2026). [Theory of multiscale epithelial mechanics under stretch: from active gels to vertex models.](https://doi.org/10.1103/4mx5-t5hx) PRX Life, 4(2), 023022.
 
 Golde, T., Pensalfini, M., **Chahare, N.**, Roca-Cusachs, P., Wiche, G., Charras, G., ... & Trepat, X. (2026). [Dynamics of supracellular keratin bundling and nuclear uncaging in stretched epithelia.](https://doi.org/10.1038/s41567-026-03371-8) Nature Physics
-
-**Chahare, N.**, Ouzeri, A., Wilson, T., Bal, P. K., Golde, T., Vilanova, G., ... & Arroyo, M. (2025). [Multiscale wrinkling dynamics in epithelial shells.](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract) bioRxiv, 2025-06.
 
 Andreu, I. + , Granero-Moya, I. + , **Chahare, N. R.**, Clein, K., Jordàn, M. M., Beedle, A. E., ... & Roca-Cusachs, P. (2022). [Mechanical force application to the nucleus regulates nucleocytoplasmic transport](https://www.nature.com/articles/s41556-022-00927-7). Nature Cell Biology, 24(6), 896-905.
 
@@ -136,7 +136,7 @@ Adviser: **Prof. Xavier Trepat** and **Prof. Marino Arroyo**, Jul 2017– Apr 20
 - Implemented an innovative approach to pattern epithelial folds through controlled buckling. 
 - Acquired expertise in cell culture, protein micropatterning, microfluidic device design and fabrication, advanced microscopy, image processing, and cell segmentation.
 
-*Published in [Nature Physics 2026](https://doi.org/10.1038/s41567-026-03371-8) and [PRX Life 2026](https://doi.org/10.1103/4mx5-t5hx); preprint on [bioRxiv 2025](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract).*
+*Published in [Nature Physics 2026](https://doi.org/10.1038/s41567-026-03371-8) and [PRX Life 2026](https://doi.org/10.1103/4mx5-t5hx); a third paper is in press at Nature ([preprint](https://www.biorxiv.org/content/10.1101/2025.06.30.662426.abstract)).*
 
 
 **Computational tool for analyzing nuclear to cytoplasmic transport**
