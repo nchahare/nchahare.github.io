@@ -92,6 +92,12 @@ Abhijith, K. G., **Chahare, N. R**., Kundanati, L., and Gundiah, N. “Mechanics
 
 ## Invited Talks and Presentations
 
+Connecting tissue folding and patterning. Physics Department, University of Barcelona, Barcelona, Spain, November 2026
+
+Round table on “ways of seeing”, with Saad Bhamla, Margarita Staykova and César Rodríguez-Emmenegger. NET-QUASI Retreat, Institute for Bioengineering of Catalonia, Barcelona, Spain, September 2026
+
+“Multiscale wrinkling dynamics in epithelial shells.” NET-QUASI Retreat, Institute for Bioengineering of Catalonia, Barcelona, Spain, September 2026
+
 “What is epithelial mechanics? and Why should we care about it?” Pint of Science talk, New York, USA, May 2025
 
 Multiscale dynamics of epithelial shells, Gulmohar: Indian Society of Developmental Biologists' postdoc talk series, November 2024
