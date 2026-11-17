@@ -308,4 +308,4 @@ Strong collaboration and teamwork abilities, confident in public speaking, self-
 
 **Native** &nbsp; : Marathi, Hindi, and English\
 **B1.2** &nbsp;&nbsp;&nbsp;&nbsp; : Catalan\
-**A1** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Spanish
+**A2** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Spanish
